@@ -1,0 +1,31 @@
+# Keep dataset private
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environments and secrets
+.env
+.env.*
+.venv/
+venv/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Caches
+.cache/
+cache/
+
+# Logs (optional)
+# logs/
+# *.log

@@ -1,0 +1,24 @@
+{
+  "generated_at": "20251024_075511",
+  "language_hint": "lang_en",
+  "country_hint": "cn, jp, us",
+  "site": null,
+  "config": {
+    "model": "openai:gemini-2.5-pro-flatfee",
+    "temperature": 0.3,
+    "max_variants": 3,
+    "prompt_template_path": "prompts/search_query_rewrite.md",
+    "include_seed": false,
+    "exact_variants": true
+  },
+  "seeds": [
+    "Glossary of Terms Related to 'Jirai Onna'"
+  ],
+  "rewrites": {
+    "Glossary of Terms Related to 'Jirai Onna'": [
+      "Glossary of Terms Related to 'Jirai Onna' definition",
+      "Glossary of Terms Related to 'Jirai Onna' origin",
+      "Glossary of Terms Related to 'Jirai Onna' social context"
+    ]
+  }
+}

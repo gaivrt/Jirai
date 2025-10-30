@@ -1,0 +1,1857 @@
+{
+  "query": "Glossary of Terms Related to 'Jirai Onna' origin",
+  "saved_at": "20251024_075511",
+  "language": "lang_en",
+  "country": "jp",
+  "pages": [
+    {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "969",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "cn"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "969",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "cn"
+          }
+        ]
+      },
+      "context": {
+        "title": "Jirai"
+      },
+      "searchInformation": {
+        "searchTime": 0.152176,
+        "formattedSearchTime": "0.15",
+        "totalResults": "969",
+        "formattedTotalResults": "969"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Can someone explain what a \"Mine Woman\" (地雷女) is? : r/japan",
+          "htmlTitle": "Can someone explain what a &quot;Mine Woman&quot; (地雷女) is? : r/japan",
+          "link": "https://www.reddit.com/r/japan/comments/g6dj45/can_someone_explain_what_a_mine_woman_%E5%9C%B0%E9%9B%B7%E5%A5%B3_is/",
+          "displayLink": "www.reddit.com",
+          "snippet": "2020年4月23日 ... Jirai onna is something I'm pretty well versed in since I take part in the fashion trend. The term as-is, is basically the new version of ...",
+          "htmlSnippet": "2020年4月23日 <b>...</b> <b>Jirai onna</b> is something I&#39;m pretty well versed in since I take part in the fashion trend. The <b>term</b> as-is, is basically the new version of&nbsp;...",
+          "formattedUrl": "https://www.reddit.com/.../can_someone_explain_what_a_mine_woman_地...",
+          "htmlFormattedUrl": "https://www.reddit.com/.../can_someone_explain_what_a_mine_woman_地...",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://share.redd.it/preview/post/g6dj45",
+                "theme-color": "#000000",
+                "og:image:width": "1200",
+                "og:type": "website",
+                "og:image:alt": "An image containing a preview of the post",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "r/japan on Reddit: Can someone explain what a \"Mine Woman\" (地雷女) is?",
+                "og:site_name": "Reddit",
+                "og:title": "r/japan on Reddit: Can someone explain what a \"Mine Woman\" (地雷女) is?",
+                "og:image:height": "630",
+                "msapplication-navbutton-color": "#000000",
+                "og:description": "Posted by u/[Deleted Account] - 27 votes and 20 comments",
+                "twitter:image": "https://share.redd.it/preview/post/g6dj45",
+                "apple-mobile-web-app-status-bar-style": "black",
+                "twitter:site": "@reddit",
+                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                "apple-mobile-web-app-capable": "yes",
+                "og:ttl": "600",
+                "og:url": "https://www.reddit.com/r/japan/comments/g6dj45/can_someone_explain_what_a_mine_woman_地雷女_is/?seeker-session=true"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jirai Kei | Aesthetics Wiki | Fandom",
+          "htmlTitle": "<b>Jirai</b> Kei | Aesthetics Wiki | Fandom",
+          "link": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+          "displayLink": "aesthetics.fandom.com",
+          "snippet": "History. The term \"Jirai Kei\" is derived from \"Jirai Onna\" (地雷女), literally \"landmine woman,\" a derogatory term used to stereotype women, particularly ...",
+          "htmlSnippet": "<b>History</b>. The <b>term</b> &quot;<b>Jirai</b> Kei&quot; is derived from &quot;<b>Jirai Onna</b>&quot; (地雷女), literally &quot;landmine woman,&quot; a derogatory <b>term</b> used to stereotype women, particularly&nbsp;...",
+          "formattedUrl": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+          "htmlFormattedUrl": "https://aesthetics.fandom.com/wiki/<b>Jirai</b>_Kei",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://static.wikia.nocookie.net/aesthetics/images/b/be/Jiraikei.jpg/revision/latest?cb=20230803104819",
+                "twitter:card": "summary",
+                "twitter:title": "Jirai Kei | Aesthetics Wiki | Fandom",
+                "theme-color": "#eaecf0",
+                "og:type": "article",
+                "og:site_name": "Aesthetics Wiki",
+                "twitter:url": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+                "og:title": "Jirai Kei",
+                "og:description": "Jirai Kei (地雷系), which translates to \"landmine type,\" is a subculture from Japan. It is primarily associated with young people frequenting the nightlife of Kabukichō. Initially, the style closely resembled the darker variant of Japanese Girly fashion during its peak popularity, but it has since evolved to incorporate a wider range of styles. The subculture carries a stereotype: young women who adopt this cute, hyperfeminine yet dark fashion are perceived to have personalities that contradict...",
+                "fb:app_id": "112328095453510",
+                "twitter:site": "@getfandom",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "twitter:description": "Jirai Kei (地雷系), which translates to \"landmine type,\" is a subculture from Japan. It is primarily associated with young people frequenting the nightlife of Kabukichō. Initially, the style closely...",
+                "og:url": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "(PDF) An Examination of the History and Current State of Jirai Kei in ...",
+          "htmlTitle": "(PDF) An Examination of the <b>History</b> and Current State of <b>Jirai</b> Kei in ...",
+          "link": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+          "displayLink": "www.researchgate.net",
+          "snippet": "2025年8月8日 ... ... history of \"Jirai Onna\" in both China and Japan. Finally, it ... and emotional instability associated with the Jirai Kei identity. The rise of ...",
+          "htmlSnippet": "2025年8月8日 <b>...</b> ... <b>history</b> of &quot;<b>Jirai Onna</b>&quot; in both China and Japan. Finally, it ... and emotional instability <b>associated</b> with the <b>Jirai</b> Kei identity. The rise of&nbsp;...",
+          "formattedUrl": "https://www.researchgate.net/.../392020593_An_Examination_of_the_Hist...",
+          "htmlFormattedUrl": "https://www.researchgate.net/.../392020593_An_Examination_of_the_Hist...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjYZ9Ohp8NEZBJpdMxKMQ0lOgIdYC5vXtVtu3xtb7a4_LLkHr3T6gOzfo&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://i1.rgstatic.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan/links/6830ae966b5a287c30440731/largepreview.png",
+                "citation_publication_date": "2025/05/23",
+                "twitter:card": "summary",
+                "citation_title": "An Examination of the History and Current State of Jirai Kei in China and Japan",
+                "og:site_name": "ResearchGate",
+                "twitter:url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "citation_publisher": "EWA Publishing",
+                "citation_journal_title": "Communications in Humanities Research",
+                "twitter:creator": "@ResearchGate",
+                "og:description": "PDF | \"Jirai Onna\" is a phrase that originated in Japanese anonymous forums and is most commonly used to denote a variety of women who are considered to... | Find, read and cite all the research you need on ResearchGate",
+                "citation_issn": "2753-7072",
+                "twitter:site": "@ResearchGate",
+                "og:site": "ResearchGate",
+                "citation_fulltext_html_url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "citation_lastpage": "13",
+                "application-name": "ResearchGate",
+                "og:type": "website",
+                "rg-request-token": "aad-2JFamOhf0II4heFzftC7xTKGYnIrsNo4YVszhIGfNnAXDAbPCJsE7IwW+kC0kEQ2z5FPZFphS9eicYWsQhAUrJcYVY1iAhnErlqEfQfcW7lAv/kr9WZnvWggzVphzjzrPL1lnb0Rrn7JWLjvg6/Pfpe26vj9O0QNJOQQAzn7R5N2Jj+ZQS/TlBLoK8BzePoVMZVVScm65LVsFRcKsUkaF3JKhqzjOZ4cX5T8rFsTc3ICJbL6bXwWZbDSmPZieQgQIFsmO7rMVA2diJb/7UaUAqC6bWelGgle",
+                "og:title": "(PDF) An Examination of the History and Current State of Jirai Kei in China and Japan",
+                "citation_author": "Ruining Sun",
+                "citation_abstract_html_url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "citation_issue": "1",
+                "referrer": "origin",
+                "citation_firstpage": "9",
+                "viewport": "width=device-width,initial-scale=1",
+                "citation_doi": "10.54254/2753-7064/2025.23183",
+                "rg:id": "PB:392020593",
+                "dc.identifier": "http://dx.doi.org/10.54254/2753-7064/2025.23183",
+                "citation_volume": "69",
+                "og:url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "gs_meta_revision": "1.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://i1.rgstatic.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan/links/6830ae966b5a287c30440731/largepreview.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jirai Kei | Japanese Fashion Wikia | Fandom",
+          "htmlTitle": "<b>Jirai</b> Kei | Japanese Fashion Wikia | Fandom",
+          "link": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+          "displayLink": "j-fashion.fandom.com",
+          "snippet": "... related to the term or trend. Women within the subculture are called \"Jirai Joshi\" (地雷女子), or landmine girls, while men in the subculture are ...",
+          "htmlSnippet": "... <b>related</b> to the <b>term</b> or trend. Women within the subculture are called &quot;<b>Jirai</b> Joshi&quot; (地雷女子), or landmine girls, while men in the subculture are&nbsp;...",
+          "formattedUrl": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+          "htmlFormattedUrl": "https://j-fashion.fandom.com/wiki/<b>Jirai</b>_Kei",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://static.wikia.nocookie.net/j-fashion/images/4/45/Jirai_kei.jpg/revision/latest/scale-to-width-down/1200?cb=20231214215622",
+                "twitter:card": "summary",
+                "twitter:title": "Jirai Kei | Japanese Fashion Wikia | Fandom",
+                "theme-color": "#eaecf0",
+                "og:type": "article",
+                "og:site_name": "Japanese Fashion Wikia",
+                "twitter:url": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+                "og:title": "Jirai Kei",
+                "og:description": "WARNING: This page discusses suicide, violence, and other negative/illegal behaviors. Although not graphic, this may be triggering for some readers. Please read and participate with caution. Jirai Kei is a younger fashion subculture that originated in Japan's Kabukicho district and first spread in popularity in the early 2020s.[1] Its initial style consisted out of Dark Girly fashion but with an own spin to it that made the wearer appear distinctly Jirai even from just a glance.[2] However...",
+                "fb:app_id": "112328095453510",
+                "twitter:site": "@getfandom",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "twitter:description": "WARNING: This page discusses suicide, violence, and other negative/illegal behaviors. Although not graphic, this may be triggering for some readers. Please read and participate with caution. Jirai...",
+                "og:url": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "An Examination of the History and Current State of Jirai Kei in China ...",
+          "htmlTitle": "An Examination of the <b>History</b> and Current State of <b>Jirai</b> Kei in China ...",
+          "link": "https://www.ewadirect.com/proceedings/chr/article/view/23183",
+          "displayLink": "www.ewadirect.com",
+          "snippet": "2025年5月23日 ... The word \"Menhera\" emerged around the same time as \"Jirai Onna.\" It is a Japanese internet adaptation of the English term \"mental health ...",
+          "htmlSnippet": "2025年5月23日 <b>...</b> The <b>word</b> &quot;Menhera&quot; emerged around the same time as &quot;<b>Jirai Onna</b>.&quot; It is a Japanese internet adaptation of the English <b>term</b> &quot;mental health&nbsp;...",
+          "formattedUrl": "https://www.ewadirect.com/proceedings/chr/article/view/23183",
+          "htmlFormattedUrl": "https://www.ewadirect.com/proceedings/chr/article/view/23183",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IIAusQoRq9fDAjSQO3J6UxBHBja69YfUi8S0nKCVVDIIUkbyzhDdkGrd&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "viewport": "width=device-width, initial-scale=1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.ewadirect.com/media/var/media/upload/chr.69.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Japanese street fashion - Wikipedia",
+          "htmlTitle": "Japanese street fashion - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Japanese_street_fashion",
+          "displayLink": "en.wikipedia.org",
+          "snippet": "Japanese street fashion refers to a number of styles of contemporary modern clothing in Japan. Created from a mix of both local and foreign fashion brands, ...",
+          "htmlSnippet": "Japanese street fashion refers to a number of styles of contemporary modern clothing in Japan. Created from a mix of both local and foreign fashion brands,&nbsp;...",
+          "formattedUrl": "https://en.wikipedia.org/wiki/Japanese_street_fashion",
+          "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Japanese_street_fashion",
+          "pagemap": {
+            "metatags": [
+              {
+                "referrer": "origin",
+                "theme-color": "#eaecf0",
+                "og:type": "website",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "og:title": "Japanese street fashion - Wikipedia",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Hakan Öztunalı | INTRODUCING @nyachu_u Interview published ...",
+          "htmlTitle": "Hakan Öztunalı | INTRODUCING @nyachu_u Interview published ...",
+          "link": "https://www.instagram.com/p/DKufQUyon6v/",
+          "displayLink": "www.instagram.com",
+          "snippet": "2025年6月10日 ... ... jirai kei style, i used similar elemets such as cuts, bandages and scars which are stereotypes of the jirai kei style. Jirai Kei plays with ...",
+          "htmlSnippet": "2025年6月10日 <b>...</b> ... <b>jirai</b> kei style, i used similar elemets such as cuts, bandages and scars which are stereotypes of the <b>jirai</b> kei style. <b>Jirai</b> Kei plays with&nbsp;...",
+          "formattedUrl": "https://www.instagram.com/p/DKufQUyon6v/",
+          "htmlFormattedUrl": "https://www.instagram.com/p/DKufQUyon6v/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoOHRyg4dNwWqFnOnAJB-NUj63ZNAV1W53JQtjWVEPKwLWYxgUEG5KfY&s",
+                "width": "208",
+                "height": "242"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3651993796396377047",
+                "theme-color": "#ffffff",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "Instagram",
+                "application-title": "Instagram",
+                "al:android:package": "com.instagram.android",
+                "bingbot": "noarchive",
+                "medium": "image",
+                "al:ios:url": "instagram://media?id=3651993809121869487",
+                "og:description": "1,650 likes, 10 comments - majordomohakanoztunali on June 10, 2025: \"INTRODUCING @nyachu_u ● Interview published.\n\n(link in bio)\n\nIntroduction\n\n○Jirai Kei fashion emphasizes mass-produced cuteness mixed with subtle rebellion. Do you see your characters as extensions of this rebellion? What emotions or narratives are you encoding into their outfits and accessories?\n\nNyachu: Yes, ofc!! Although jts not completely jirai kei style, i used similar elemets such as cuts, bandages and scars which are stereotypes of the jirai kei style. Jirai Kei plays with the tension between cuteness and mental health, and I try to reflect that in my characters. Their outfits often mix ribbons or lace with something slightly more 'mentally ill-ish', like bandages, cuts, scars and and a muted color palette. in a way showing the vulnerability and the hidden pain they suffer under the cuteness.\n\n#interview #artdaily #jirai #kei #artistsupport #illustration #animeaesthetic\".",
+                "twitter:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3651993796396377047",
+                "al:ios:app_store_id": "389801252",
+                "twitter:site": "@instagram",
+                "instapp:owner_user_id": "54506217059",
+                "og:type": "article",
+                "twitter:title": "Hakan Öztunalı (@majordomohakanoztunali) • Instagram photos and videos",
+                "al:ios:app_name": "Instagram",
+                "og:title": "Hakan Öztunalı on Instagram: \"INTRODUCING @nyachu_u ● Interview published.\n\n(link in bio)\n\nIntroduction\n\n○Jirai Kei fashion emphasizes mass-produced cuteness mixed with subtle rebellion. Do you see your characters as extensions of this rebellion? What emotions or narratives are you encoding into their outfits and accessories?\n\nNyachu: Yes, ofc!! Although jts not completely jirai kei style, i used similar elemets such as cuts, bandages and scars which are stereotypes of the jirai kei style. Jirai Kei plays with the tension between cuteness and mental health, and I try to reflect that in my characters. Their outfits often mix ribbons or lace with something slightly more 'mentally ill-ish', like bandages, cuts, scars and and a muted color palette. in a way showing the vulnerability and the hidden pain they suffer under the cuteness.\n\n#interview #artdaily #jirai #kei #artistsupport #illustration #animeaesthetic\"",
+                "twitter:maxage": "86400",
+                "color-scheme": "light",
+                "al:android:url": "https://www.instagram.com/p/DKufQUyon6v/",
+                "fb:app_id": "124024574287414",
+                "apple-mobile-web-app-status-bar-style": "default",
+                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                "mobile-web-app-capable": "yes",
+                "og:url": "https://www.instagram.com/p/DKufQUyon6v/",
+                "al:android:app_name": "Instagram"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3651993796396377047"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "A Land-Mine Style Ready for the World Zooming in on Jirai-kei fashion",
+          "htmlTitle": "A Land-Mine Style Ready for the World Zooming in on <b>Jirai</b>-kei fashion",
+          "link": "https://www.nufs.ac.jp/media/TheNUFSTimes_N10_1.pdf",
+          "displayLink": "www.nufs.ac.jp",
+          "snippet": "2023年1月24日 ... find affordable items related to the style. Unlike other Japanese ... in terms of international openness. The bonds of in- ternational ...",
+          "htmlSnippet": "2023年1月24日 <b>...</b> find affordable items <b>related</b> to the style. Unlike other Japanese ... in <b>terms</b> of international openness. The bonds of in- ternational&nbsp;...",
+          "formattedUrl": "https://www.nufs.ac.jp/media/TheNUFSTimes_N10_1.pdf",
+          "htmlFormattedUrl": "https://www.nufs.ac.jp/media/TheNUFSTimes_N10_1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7K2bQKfPwMggfI5KJvTrLmENRQEoq6LtO7hZP-pvU8SYAhaHJ_bjXUCx&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230125160033+09'00'",
+                "creationdate": "D:20230116203005+09'00'",
+                "producer": "iText® Core 7.2.4 (AGPL version) ©2000-2022 iText Group NV"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6a553f86b2b3501bae0b71b9b6697fc462be8dcd332e7b2af16dde2e3f14621f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Oshi Terms 101 : A Guide – Yumemipi's Outlet",
+          "htmlTitle": "Oshi <b>Terms</b> 101 : A Guide – Yumemipi&#39;s Outlet",
+          "link": "https://yumemipi.wordpress.com/2020/05/29/oshi-terms-101-a-guide/",
+          "displayLink": "yumemipi.wordpress.com",
+          "snippet": "2020年5月29日 ... Onna wota-wota (女ヲタヲタ). – means “Female fan's fans” //I know ... When you look up at the dictionary the word 「尊い」 means precious.",
+          "htmlSnippet": "2020年5月29日 <b>...</b> <b>Onna</b> wota-wota (女ヲタヲタ). – means “Female fan&#39;s fans” //I know ... When you look up at the <b>dictionary</b> the <b>word</b> 「尊い」 means precious.",
+          "formattedUrl": "https://yumemipi.wordpress.com/2020/05/29/oshi-terms-101-a-guide/",
+          "htmlFormattedUrl": "https://yumemipi.wordpress.com/2020/05/29/oshi-<b>terms</b>-101-a-guide/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7beNHPiXTUpPFkISlhi1RRPW13StF_wPwyr8EjZ9iSnddqDKS_nMN00P9&s",
+                "width": "247",
+                "height": "204"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/20180208000111.png",
+                "og:type": "article",
+                "article:published_time": "2020-05-29T05:41:18+00:00",
+                "og:image:width": "663",
+                "twitter:card": "summary_large_image",
+                "theme-color": "#f2ecec",
+                "og:site_name": "Yumemipi's Outlet ♥",
+                "og:title": "Oshi Terms 101 : A Guide",
+                "og:image:height": "547",
+                "msapplication-tileimage": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/cropped-279830326003211.png?w=270",
+                "og:description": "If you’re a beginner in the idol scene, wotaku community, or maybe someone who’s curious about these things, it gets confusing because there are a lot of terminologies and slang that ar…",
+                "article:publisher": "https://www.facebook.com/WordPresscom",
+                "twitter:image": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/20180208000111.png?w=640",
+                "twitter:text:title": "Oshi Terms 101 : A Guide",
+                "fb:app_id": "249643311490",
+                "article:modified_time": "2021-06-05T09:05:10+00:00",
+                "viewport": "width=device-width, initial-scale=1",
+                "og:locale": "en_US",
+                "og:url": "https://yumemipi.wordpress.com/2020/05/29/oshi-terms-101-a-guide/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/20180208000111.png"
+              }
+            ],
+            "hatomfeed": [
+              {}
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "AN ATLAS OF NIGERIAN LANGUAGES",
+          "htmlTitle": "AN ATLAS OF NIGERIAN LANGUAGES",
+          "link": "https://rogerblench.info/Language/Africa/Nigeria/Atlas%20of%20Nigerian%20Languages%202020.pdf",
+          "displayLink": "rogerblench.info",
+          "snippet": "... related words is not less than 70 per cent' and the figure of 80 per cent ... This name is the origin of the term Ejar. 2.C Koro Agwe, Agwere, Koro ...",
+          "htmlSnippet": "... <b>related words</b> is not less than 70 per cent&#39; and the figure of 80 per cent ... This name is the <b>origin</b> of the <b>term</b> Ejar. 2.C Koro Agwe, Agwere, Koro&nbsp;...",
+          "formattedUrl": "https://rogerblench.info/.../Atlas%20of%20Nigerian%20Languages%20202...",
+          "htmlFormattedUrl": "https://rogerblench.info/.../Atlas%20of%20Nigerian%20Languages%20202...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJ_A2L7OZhyebOwScsXp0ZtmIOp9lXalRsZ8wsDLZtn-GhUdAcWhhvrk&s",
+                "width": "195",
+                "height": "259"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200911175838+01'00'",
+                "creationdate": "D:20200911175838+01'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Roger",
+                "producer": "Acrobat Distiller 10.1.16 (Windows)",
+                "title": "Microsoft Word - Atlas of Nigerian Languages 2020.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9da1b6c8184d02c3ca4853eacdb84bff7ca26ebea4368ae2190f2a14e8b9e37f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "969",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "cn"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "969",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "cn"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "969",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "cn"
+          }
+        ]
+      },
+      "context": {
+        "title": "Jirai"
+      },
+      "searchInformation": {
+        "searchTime": 0.10348,
+        "formattedSearchTime": "0.10",
+        "totalResults": "969",
+        "formattedTotalResults": "969"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Landmine-Girl - Urban Dictionary",
+          "htmlTitle": "Landmine-Girl - Urban Dictionary",
+          "link": "https://www.urbandictionary.com/define.php?term=Landmine-Girl",
+          "displayLink": "www.urbandictionary.com",
+          "snippet": "2020年10月9日 ... ... associated with 'Jirai Onna', also called 'Jirai Kei'. Landmine ... terms of service · dmca · accessibility statement · report a bug ...",
+          "htmlSnippet": "2020年10月9日 <b>...</b> ... <b>associated</b> with &#39;<b>Jirai Onna</b>&#39;, also called &#39;<b>Jirai</b> Kei&#39;. Landmine ... <b>terms</b> of service &middot; dmca &middot; accessibility statement &middot; report a bug&nbsp;...",
+          "formattedUrl": "https://www.urbandictionary.com/define.php?term=Landmine-Girl",
+          "htmlFormattedUrl": "https://www.urbandictionary.com/define.php?term=Landmine-Girl",
+          "pagemap": {
+            "metatags": [
+              {
+                "msapplication-tilecolor": "#f2fd53",
+                "og:image": "https://udimg.com/v1/social/twitter.png?word=Landmine-Girl&meaning=%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%88Jirai-onna%29+lit.+%22Land+Mine+Woman%22.+Usually+younger+girls.%0D%0AA+%27landmine%27+is+a+girl%2Fwoman+who+wears+cute+clothes%2Fmakeup+but+in+truth%2C+is+nothing+but+trouble.%0D%0ASomewhat+like+menhera%2C+they%27re+obsessive+and+tend+to+have+major+personality+issues.%0A%0AThey+tend+to+be+very+attention-seeking%2C+have+a+messy+relationship+history%2C+and+is+overly+attached+to+her+social+media%2Fhow+she+presents+herself+online.%0D%0AShe+will+write+out+her+inner+angst+as+poetry+and+post+it+while+acting+vague+and+aloof.+Act+vulnerable+and+self+deprecating+in+front+of+others+for+sympathy+but+is+far+too+self+absorbed+to+try+and+sympathize+with+others.%0D%0AGenerally+avoided+by+most+Japanese+men%2C+being+regarded+as+mentally+and+emotionally+draining.%0D%0AHowever%2C+just+like+Menhera%2C+it+has+become+a+sort+of+fashion+trend+amongst+Japanese+women+and+has+given+room+for+a+specific+style+associated+with+%27Jirai+On",
+                "theme-color": "#eeeeee",
+                "twitter:title": "Urban Dictionary: Landmine-Girl",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "Urban Dictionary",
+                "og:title": "Urban Dictionary: Landmine-Girl",
+                "msapplication-tileimage": "/mstile-144x144.png",
+                "og:description": "Landmine-Girl: 地雷女（Jirai-onna) lit. \"Land Mine Woman\". Usually younger girls. A 'landmine' is a girl/woman who wears cute clothes/makeup but in truth, is...",
+                "twitter:image": "https://udimg.com/v1/social/twitter.png?word=Landmine-Girl&meaning=%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%88Jirai-onna%29+lit.+%22Land+Mine+Woman%22.+Usually+younger+girls.%0D%0AA+%27landmine%27+is+a+girl%2Fwoman+who+wears+cute+clothes%2Fmakeup+but+in+truth%2C+is+nothing+but+trouble.%0D%0ASomewhat+like+menhera%2C+they%27re+obsessive+and+tend+to+have+major+personality+issues.%0A%0AThey+tend+to+be+very+attention-seeking%2C+have+a+messy+relationship+history%2C+and+is+overly+attached+to+her+social+media%2Fhow+she+presents+herself+online.%0D%0AShe+will+write+out+her+inner+angst+as+poetry+and+post+it+while+acting+vague+and+aloof.+Act+vulnerable+and+self+deprecating+in+front+of+others+for+sympathy+but+is+far+too+self+absorbed+to+try+and+sympathize+with+others.%0D%0AGenerally+avoided+by+most+Japanese+men%2C+being+regarded+as+mentally+and+emotionally+draining.%0D%0AHowever%2C+just+like+Menhera%2C+it+has+become+a+sort+of+fashion+trend+amongst+Japanese+women+and+has+given+room+for+a+specific+style+associated+with+%27Jirai+On",
+                "fb:app_id": "169142139769391",
+                "twitter:site": "@urbandictionary",
+                "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+                "twitter:description": "Landmine-Girl: 地雷女（Jirai-onna) lit. \"Land Mine Woman\". Usually younger girls. A 'landmine' is a girl/woman who wears cute clothes/makeup but in truth, is...",
+                "og:url": "https://www.urbandictionary.com/define.php?term=Landmine-Girl"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://udimg.com/v1/social/twitter.png?word=Landmine-Girl&meaning=%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%88Jirai-onna%29+lit.+%22Land+Mine+Woman%22.+Usually+younger+girls.%0D%0AA+%27landmine%27+is+a+girl%2Fwoman+who+wears+cute+clothes%2Fmakeup+but+in+truth%2C+is+nothing+but+trouble.%0D%0ASomewhat+like+menhera%2C+they%27re+obsessive+and+tend+to+have+major+personality+issues.%0A%0AThey+tend+to+be+very+attention-seeking%2C+have+a+messy+relationship+history%2C+and+is+overly+attached+to+her+social+media%2Fhow+she+presents+herself+online.%0D%0AShe+will+write+out+her+inner+angst+as+poetry+and+post+it+while+acting+vague+and+aloof.+Act+vulnerable+and+self+deprecating+in+front+of+others+for+sympathy+but+is+far+too+self+absorbed+to+try+and+sympathize+with+others.%0D%0AGenerally+avoided+by+most+Japanese+men%2C+being+regarded+as+mentally+and+emotionally+draining.%0D%0AHowever%2C+just+like+Menhera%2C+it+has+become+a+sort+of+fashion+trend+amongst+Japanese+women+and+has+given+room+for+a+specific+style+associated+with+%27Jirai+On"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Mentally Ill and Cute as Hell: Menhera Girls and ... - Frontiers",
+          "htmlTitle": "Mentally Ill and Cute as Hell: Menhera Girls and ... - Frontiers",
+          "link": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/full",
+          "displayLink": "www.frontiersin.org",
+          "snippet": "2022年3月10日 ... ... origin of the term menhera. The earliest use of the term dated ... 090 (2016b) identified the emergence of a term menhera onna (menhera ...",
+          "htmlSnippet": "2022年3月10日 <b>...</b> ... <b>origin</b> of the <b>term</b> menhera. The earliest use of the <b>term</b> dated ... 090 (2016b) identified the emergence of a <b>term</b> menhera <b>onna</b> (menhera&nbsp;...",
+          "formattedUrl": "https://www.frontiersin.org/journals/communication/articles/10.3389/.../full",
+          "htmlFormattedUrl": "https://www.frontiersin.org/journals/communication/articles/10.3389/.../full",
+          "pagemap": {
+            "metatags": [
+              {
+                "citation_keywords": "menhera; self-injury; Japanese popular culture; Female madness; Representations",
+                "citation_publication_date": "2022/03/11",
+                "theme-color": "#0C4DED",
+                "twitter:card": "summary_large_image",
+                "citation_title": "Mentally Ill and Cute as Hell: Menhera Girls and Portrayals of Self-Injury in Japanese Popular Culture",
+                "citation_author_institution": "School of Professional Communication, Ryerson University, Canada",
+                "citation_publisher": "Frontiers",
+                "apple-mobile-web-app-title": "Frontiers | Articles",
+                "citation_journal_title": "Frontiers in Communication",
+                "title": "Frontiers | Mentally Ill and Cute as Hell: Menhera Girls and Portrayals of Self-Injury in Japanese Popular Culture",
+                "type": "article",
+                "citation_online_date": "2022/02/10",
+                "citation_issn": "2297-900X",
+                "citation_language": "English",
+                "citation_pdf_url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/pdf",
+                "citation_xml_url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/xml",
+                "image": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/737761/fcomm-07-737761-HTML/image_m/fcomm-07-737761-g001.jpg",
+                "citation_fulltext_world_readable": "yes",
+                "citation_journal_abbrev": "Front. Commun.",
+                "citation_article_type": "Conceptual Analysis",
+                "citation_abstract": "Over the last few decades, self-injury has gained wide visibility in Japanese popular culture from manga (graphic novel), anime (animation), to digital games and fashion. Among the most conspicuous is the emergence of menhera (a portmanteau of “mental health-er”) girls, female characters who exhibit unstable emotionality, obsessive love, and stereotypical self-injurious behaviours such as wrist cutting. Tracing the expansion of this popular cultural slang since 2000, this conceptual paper explores three narrative tropes of menhera – the sad girl, the mad woman, and the cutie. Within these menhera narratives, self-injury functions as a self-sufficient signifier of female vulnerability, monstrosity, and desire for agency. These menhera tropes, each with their unique interpretation of self-injury, have evolved symbiotically with traditional gender norms in Japan, while destabilizing long-standing undesirability of sick/detracted female bodies. The menhera narrative tropes mobilize cultural discourses about",
+                "citation_author": "Seko, Yukari",
+                "url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/full",
+                "site_name": "Frontiers",
+                "citation_firstpage": "737761",
+                "viewport": "width=device-width, initial-scale=1",
+                "apple-mobile-web-app-capable": "yes",
+                "citation_doi": "10.3389/fcomm.2022.737761",
+                "mobile-web-app-capable": "yes",
+                "dc.identifier": "doi:10.3389/fcomm.2022.737761",
+                "citation_volume": "7"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Definitions by TriMeruu - Urban Dictionary",
+          "htmlTitle": "Definitions by TriMeruu - Urban Dictionary",
+          "link": "https://www.urbandictionary.com/author.php?author=TriMeruu",
+          "displayLink": "www.urbandictionary.com",
+          "snippet": "2020年10月9日 ... ... associated with 'Jirai Onna', also called 'Jirai Kei'. Landmine ... terms of service · dmca · accessibility statement · report a bug ...",
+          "htmlSnippet": "2020年10月9日 <b>...</b> ... <b>associated</b> with &#39;<b>Jirai Onna</b>&#39;, also called &#39;<b>Jirai</b> Kei&#39;. Landmine ... <b>terms</b> of service &middot; dmca &middot; accessibility statement &middot; report a bug&nbsp;...",
+          "formattedUrl": "https://www.urbandictionary.com/author.php?author=TriMeruu",
+          "htmlFormattedUrl": "https://www.urbandictionary.com/author.php?author=TriMeruu",
+          "pagemap": {
+            "metatags": [
+              {
+                "msapplication-tilecolor": "#f2fd53",
+                "og:image": "https://udimg.com/v1/social/twitter.png?word=Landmine-Girl&meaning=%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%88Jirai-onna%29+lit.+%22Land+Mine+Woman%22.+Usually+younger+girls.%0D%0AA+%27landmine%27+is+a+girl%2Fwoman+who+wears+cute+clothes%2Fmakeup+but+in+truth%2C+is+nothing+but+trouble.%0D%0ASomewhat+like+menhera%2C+they%27re+obsessive+and+tend+to+have+major+personality+issues.%0A%0AThey+tend+to+be+very+attention-seeking%2C+have+a+messy+relationship+history%2C+and+is+overly+attached+to+her+social+media%2Fhow+she+presents+herself+online.%0D%0AShe+will+write+out+her+inner+angst+as+poetry+and+post+it+while+acting+vague+and+aloof.+Act+vulnerable+and+self+deprecating+in+front+of+others+for+sympathy+but+is+far+too+self+absorbed+to+try+and+sympathize+with+others.%0D%0AGenerally+avoided+by+most+Japanese+men%2C+being+regarded+as+mentally+and+emotionally+draining.%0D%0AHowever%2C+just+like+Menhera%2C+it+has+become+a+sort+of+fashion+trend+amongst+Japanese+women+and+has+given+room+for+a+specific+style+associated+with+%27Jirai+On",
+                "theme-color": "#ffffff",
+                "fb:app_id": "169142139769391",
+                "twitter:title": "Urban Dictionary: Definitions by TriMeruu",
+                "twitter:card": "summary_large_image",
+                "twitter:site": "@urbandictionary",
+                "og:site_name": "Urban Dictionary",
+                "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+                "og:title": "Urban Dictionary: Definitions by TriMeruu",
+                "msapplication-tileimage": "/mstile-144x144.png",
+                "twitter:image": "https://udimg.com/v1/social/twitter.png?word=Landmine-Girl&meaning=%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%88Jirai-onna%29+lit.+%22Land+Mine+Woman%22.+Usually+younger+girls.%0D%0AA+%27landmine%27+is+a+girl%2Fwoman+who+wears+cute+clothes%2Fmakeup+but+in+truth%2C+is+nothing+but+trouble.%0D%0ASomewhat+like+menhera%2C+they%27re+obsessive+and+tend+to+have+major+personality+issues.%0A%0AThey+tend+to+be+very+attention-seeking%2C+have+a+messy+relationship+history%2C+and+is+overly+attached+to+her+social+media%2Fhow+she+presents+herself+online.%0D%0AShe+will+write+out+her+inner+angst+as+poetry+and+post+it+while+acting+vague+and+aloof.+Act+vulnerable+and+self+deprecating+in+front+of+others+for+sympathy+but+is+far+too+self+absorbed+to+try+and+sympathize+with+others.%0D%0AGenerally+avoided+by+most+Japanese+men%2C+being+regarded+as+mentally+and+emotionally+draining.%0D%0AHowever%2C+just+like+Menhera%2C+it+has+become+a+sort+of+fashion+trend+amongst+Japanese+women+and+has+given+room+for+a+specific+style+associated+with+%27Jirai+On"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://udimg.com/v1/social/twitter.png?word=Landmine-Girl&meaning=%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%88Jirai-onna%29+lit.+%22Land+Mine+Woman%22.+Usually+younger+girls.%0D%0AA+%27landmine%27+is+a+girl%2Fwoman+who+wears+cute+clothes%2Fmakeup+but+in+truth%2C+is+nothing+but+trouble.%0D%0ASomewhat+like+menhera%2C+they%27re+obsessive+and+tend+to+have+major+personality+issues.%0A%0AThey+tend+to+be+very+attention-seeking%2C+have+a+messy+relationship+history%2C+and+is+overly+attached+to+her+social+media%2Fhow+she+presents+herself+online.%0D%0AShe+will+write+out+her+inner+angst+as+poetry+and+post+it+while+acting+vague+and+aloof.+Act+vulnerable+and+self+deprecating+in+front+of+others+for+sympathy+but+is+far+too+self+absorbed+to+try+and+sympathize+with+others.%0D%0AGenerally+avoided+by+most+Japanese+men%2C+being+regarded+as+mentally+and+emotionally+draining.%0D%0AHowever%2C+just+like+Menhera%2C+it+has+become+a+sort+of+fashion+trend+amongst+Japanese+women+and+has+given+room+for+a+specific+style+associated+with+%27Jirai+On"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jirai Kei Fashion: Full Guide to Japan's Dark Feminine Style ...",
+          "htmlTitle": "<b>Jirai</b> Kei Fashion: Full Guide to Japan&#39;s Dark Feminine Style ...",
+          "link": "https://moeflavor.com/blogs/news/jirai-kei-fashion",
+          "displayLink": "moeflavor.com",
+          "snippet": "2025年7月30日 ... ... onna\", which translates to \"landmine type\" or \"landmine girl.\" This Japanese fashion movement transforms what was initially a derogatory term ...",
+          "htmlSnippet": "2025年7月30日 <b>...</b> ... <b>onna</b>&quot;, which translates to &quot;landmine type&quot; or &quot;landmine girl.&quot; This Japanese fashion movement transforms what was initially a derogatory <b>term</b>&nbsp;...",
+          "formattedUrl": "https://moeflavor.com/blogs/news/jirai-kei-fashion",
+          "htmlFormattedUrl": "https://moeflavor.com/blogs/news/<b>jirai</b>-kei-fashion",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflU5o2_zmuujDisNbDvppYKYyDqaRdTmGzfz3lMhXOrLB1C6DpDJ2KOwJ&s",
+                "width": "290",
+                "height": "174"
+              }
+            ],
+            "organization": [
+              {
+                "logo": "https://moeflavor.com/cdn/shop/files/Moeflavor-Heart-Logo_4_82cb3f84-7212-41ee-9688-051c93888429.png?v=1674885941&width=220",
+                "url": "https://moeflavor.com/"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "http://moeflavor.com/cdn/shop/articles/jirai-kei-fashion-full-guide-to-japans-dark-feminine-style-2299176.jpg?v=1757052770",
+                "theme-color": "#ff7aac",
+                "og:type": "article",
+                "og:image:width": "750",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "Jirai Kei Fashion: Full Guide to Japan's Dark Feminine Style",
+                "og:site_name": "MOEFLAVOR - Waifu Inspired Fashion and Lingerie Store",
+                "og:title": "Jirai Kei Fashion: Full Guide to Japan's Dark Feminine Style",
+                "og:image:height": "450",
+                "shopify-checkout-api-token": "45339a76cac0fa9101caa3d048f0e20a",
+                "og:description": "People searching for Jirai Kei fashion often feel drawn to its unique blend of kawaii cuteness and melancholic darkness, yet struggle to embody this complex aesthetic authentically. Whether someone has encountered this style through social media or anime culture, they're typically looking for guidance on how to create their jirai kei look without appropriating its deeper cultural meanings.\nThis style represents more than clothing choices—it's a form of emotional expression that resonates with those who find beauty in vulnerability and strength in embracing their complex feelings.\nWhat is Jirai Kei Fashion?\n\nJirai kei fashion emerged from Japanese internet culture in the early 2020s, originating from the derogatory term",
+                "og:image:secure_url": "https://moeflavor.com/cdn/shop/articles/jirai-kei-fashion-full-guide-to-japans-dark-feminine-style-2299176.jpg?v=1757052770",
+                "facebook-domain-verification": "gps0ucjgqt2fl36k8r58spnrg9wmnp",
+                "twitter:site": "@moeflavor",
+                "viewport": "width=device-width,initial-scale=1",
+                "twitter:description": "People searching for Jirai Kei fashion often feel drawn to its unique blend of kawaii cuteness and melancholic darkness, yet struggle to embody this complex aesthetic authentically. Whether someone has encountered this style through social media or anime culture, they're typically looking for guidance on how to create their jirai kei look without appropriating its deeper cultural meanings.\nThis style represents more than clothing choices—it's a form of emotional expression that resonates with those who find beauty in vulnerability and strength in embracing their complex feelings.\nWhat is Jirai Kei Fashion?\n\nJirai kei fashion emerged from Japanese internet culture in the early 2020s, originating from the derogatory term",
+                "shopify-digital-wallet": "/34498478220/digital_wallets/dialog",
+                "og:url": "https://moeflavor.com/blogs/news/jirai-kei-fashion"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "http://moeflavor.com/cdn/shop/articles/jirai-kei-fashion-full-guide-to-japans-dark-feminine-style-2299176.jpg?v=1757052770"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "What is \"Ryosan-kei Joshi\"? What does \"Seiso-kei Joshi\" mean? A ...",
+          "htmlTitle": "What is &quot;Ryosan-kei Joshi&quot;? What does &quot;Seiso-kei Joshi&quot; mean? A ...",
+          "link": "https://www.fun-japan.jp/en/articles/14019",
+          "displayLink": "www.fun-japan.jp",
+          "snippet": "2025年8月21日 ... Have you ever heard terms like \"Himono Onna\" or \"Fujoshi\" in Japanese dramas and anime? ... A similar term, \"Ria-ko\" (short for \"real-koishiteru\" ...",
+          "htmlSnippet": "2025年8月21日 <b>...</b> Have you ever heard <b>terms</b> like &quot;Himono <b>Onna</b>&quot; or &quot;Fujoshi&quot; in Japanese dramas and anime? ... A similar <b>term</b>, &quot;Ria-ko&quot; (short for &quot;real-koishiteru&quot;&nbsp;...",
+          "formattedUrl": "https://www.fun-japan.jp/en/articles/14019",
+          "htmlFormattedUrl": "https://www.fun-japan.jp/en/articles/14019",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLXR9A-nj7_9qw2OYga42XFmXV5qwXyKPM5oaf_UckwiKSBUqPECdFG4ck&s",
+                "width": "277",
+                "height": "182"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://content.fun-japan.jp/renewal-prod/cms/articles/content/0331af4a1f6d096dee4f3a8747c064fb12ade154_2025-03-11-11-55-16.jpg",
+                "og:type": "article",
+                "og:image:width": "960",
+                "og:site_name": "FUN! JAPAN",
+                "og:title": "What is \"Ryosan-kei Joshi\"? What does \"Seiso-kei Joshi\" mean? A guide to \"○○-kei Joshi/Danshi (girl/guy)\" based on personality and fashion",
+                "og:image:height": "632",
+                "og:description": "Have you ever heard words like \"dried fish woman\" or \"rotten girl\" in Japan dramas and anime works? Derived from this, in recent years, the types of phrases such as \"mine-type girls\", \"Minato-ku girls\", and \"carnivorous boys\" have increased considerably. Therefore, this time, we will carefully select 〇〇 girls and 〇〇 boys who are often used in Japan, and introduce them with detailed meanings and characteristics of personality and fashion. What kind of girl or boy are you?",
+                "article:author": "https://www.facebook.com/international.funjapan/",
+                "fragment": "!",
+                "fb:app_id": "611810055567757",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "csrf-token": "eyoN5c4udj2DTFmPKBi4ZmESH6Ut3jIAcjVFVBDP",
+                "og:article:section": "Japan",
+                "og:locale": "en",
+                "og:url": "https://www.fun-japan.jp/en/articles/14019",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://content.fun-japan.jp/renewal-prod/cms/articles/content/0331af4a1f6d096dee4f3a8747c064fb12ade154_2025-03-11-11-55-16.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "irl magical girl on Tumblr",
+          "htmlTitle": "irl magical girl on Tumblr",
+          "link": "https://www.tumblr.com/tagged/irl%20magical%20girl",
+          "displayLink": "www.tumblr.com",
+          "snippet": "For those new to chaos magic, or who are unfamiliar with the terminology, a servitor is an entity created by a magician to perform certain tasks autonomous from ...",
+          "htmlSnippet": "For those new to chaos magic, or who are unfamiliar with the <b>terminology</b>, a servitor is an entity created by a magician to perform certain tasks autonomous from&nbsp;...",
+          "formattedUrl": "https://www.tumblr.com/tagged/irl%20magical%20girl",
+          "htmlFormattedUrl": "https://www.tumblr.com/tagged/irl%20magical%20girl",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMzxuGxdZ_os0nwZbQpWJSPpwj4FjkMkKmSZarkbq4-f7OVFWlirK4wA&s",
+                "width": "543",
+                "height": "64"
+              }
+            ],
+            "metatags": [
+              {
+                "msapplication-tilecolor": "#001936",
+                "twitter:app:id:googleplay": "com.tumblr",
+                "og:image": "https://64.media.tumblr.com/a3f40085226e59ed56fec68458a115f3/ffccf9b7a905df9d-64/s640x960/67c988d53a4ac28c5bc7c5200bf5e386eaf276bf.pnj",
+                "theme-color": "rgb(0, 25, 53)",
+                "twitter:card": "app",
+                "og:type": "website",
+                "og:image:width": "543",
+                "og:site_name": "Tumblr",
+                "og:title": "irl magical girl on Tumblr",
+                "twitter:app:id:ipad": "305343404",
+                "og:image:height": "64",
+                "bingbot": "nocache",
+                "msapplication-tileimage": "https://assets.tumblr.com/pop/manifest/mstile-150x150-b040e390.png",
+                "twitter:app:id:iphone": "305343404",
+                "parsely-title": "irl magical girl on Tumblr",
+                "og:description": "See a recent post on Tumblr from @shoujosoulsite about irl magical girl. Discover more posts about irl mahou shoujo, athena greek mythology, magical girl transformation, greek mythology au, mahou shoujo, irl magic user, and irl magical girl.",
+                "parsely-type": "index",
+                "parsely-tags": "page:CommunityHub, irl magical girl",
+                "twitter:site": "@tumblr",
+                "viewport": "width=device-width, initial-scale=1",
+                "parsely-link": "https://www.tumblr.com/tagged/irl%20magical%20girl",
+                "parsely-image-url": "https://64.media.tumblr.com/a3f40085226e59ed56fec68458a115f3/ffccf9b7a905df9d-64/s640x960/67c988d53a4ac28c5bc7c5200bf5e386eaf276bf.pnj",
+                "parsely-section": "CommunityHub",
+                "og:url": "/tagged/irl%20magical%20girl"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://64.media.tumblr.com/a3f40085226e59ed56fec68458a115f3/ffccf9b7a905df9d-64/s640x960/67c988d53a4ac28c5bc7c5200bf5e386eaf276bf.pnj"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Making Sense of Japanese Grammar",
+          "htmlTitle": "Making Sense of Japanese Grammar",
+          "link": "https://dokumen.pub/download/making-sense-of-japanese-grammar-a-clear-guide-through-common-problems-9780824863487.html",
+          "displayLink": "dokumen.pub",
+          "snippet": "“Te-forms connect closely related events.” The glossary provides short definitions of terms which might require clarification. Indexed items lead you to the ...",
+          "htmlSnippet": "“Te-forms connect closely <b>related</b> events.” The <b>glossary</b> provides short <b>definitions</b> of <b>terms</b> which might require clarification. Indexed items lead you to the&nbsp;...",
+          "formattedUrl": "https://dokumen.pub/.../making-sense-of-japanese-grammar-a-clear-guide-t...",
+          "htmlFormattedUrl": "https://dokumen.pub/.../making-sense-of-japanese-grammar-a-clear-guide-t...",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20201007100227+03'00'",
+                "creationdate": "D:20201007100227+03'00'",
+                "producer": "iTextSharp 5.0.6 (c) 1T3XT BVBA"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Generated on 2014-01-04 18:22 GMT / http://hdl.handle.net/2027 ...",
+          "htmlTitle": "Generated on 2014-01-04 18:22 GMT / http://hdl.handle.net/2027 ...",
+          "link": "https://csclub.uwaterloo.ca/~rfburger/japanese-as-it-is-spoken-a-beginners-grammar-joseph-w-ballantine-1945.pdf",
+          "displayLink": "csclub.uwaterloo.ca",
+          "snippet": "2014年1月4日 ... Words of European Origin. After the opening of Japan to ... The Glossary here appended provides a vocabulary of about 4,000 Japanese words,.",
+          "htmlSnippet": "2014年1月4日 <b>...</b> <b>Words</b> of European <b>Origin</b>. After the opening of Japan to ... The <b>Glossary</b> here appended provides a vocabulary of about 4,000 Japanese <b>words</b>,.",
+          "formattedUrl": "https://csclub.uwaterloo.ca/.../japanese-as-it-is-spoken-a-beginners-grammar...",
+          "htmlFormattedUrl": "https://csclub.uwaterloo.ca/.../japanese-as-it-is-spoken-a-beginners-grammar...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-_wawOcHypv1vMuW9GzF1Ke_weyhdsKf5F4NJmCmkFVOabvJqH-HOriA&s",
+                "width": "186",
+                "height": "271"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20140305101519-05'00'",
+                "creator": "pdftk 1.44 - www.pdftk.com",
+                "creationdate": "D:20140305101519-05'00'",
+                "producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4f43b1f6b0da46b929ae1853233be854cd9640002467887d9f9a66c56bd12f94"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jorōgumo | Yokai.com",
+          "htmlTitle": "Jorōgumo | Yokai.com",
+          "link": "https://yokai.com/jorougumo/",
+          "displayLink": "yokai.com",
+          "snippet": "Written with modern kanji, their name means “entangling bride.” However, these characters were added much later to cover up the original meaning of jorōgumo—” ...",
+          "htmlSnippet": "Written with modern kanji, their name means “entangling bride.” However, these characters were added much later to cover up the original meaning of jorōgumo—”&nbsp;...",
+          "formattedUrl": "https://yokai.com/jorougumo/",
+          "htmlFormattedUrl": "https://yokai.com/jorougumo/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQzO_VQ_LRmeBTKzrWEI0ot92zmnz2AJ9eiTyIZeEWBwSugM44XynS5Q&s",
+                "width": "196",
+                "height": "257"
+              }
+            ],
+            "metatags": [
+              {
+                "viewport": "width=device-width, initial-scale=1.0",
+                "author": "Matt",
+                "msapplication-tileimage": "https://yokai.com/wordpress/wp-content/uploads/2018/04/cropped-yokai-logo-270x270.png"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://yokai.com/wordpress/wp-content/uploads/2020/06/otonjorou.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Prostitutes, Stepmothers, and Provincial Daughters: Women and ...",
+          "htmlTitle": "Prostitutes, Stepmothers, and Provincial Daughters: Women and ...",
+          "link": "http://www.takey.com/Thesis_272.pdf",
+          "displayLink": "www.takey.com",
+          "snippet": "strong connection to women, in terms of its origin and audiences and in the centrality of the ... For instance, in a dictionary of associated words for composing ...",
+          "htmlSnippet": "strong connection to women, in <b>terms</b> of its <b>origin</b> and audiences and in the centrality of the ... For instance, in a <b>dictionary</b> of <b>associated words</b> for composing&nbsp;...",
+          "formattedUrl": "http://www.takey.com/Thesis_272.pdf",
+          "htmlFormattedUrl": "http://www.takey.com/Thesis_272.pdf",
+          "pagemap": {
+            "metatags": [
+              {
+                "moddate": "D:20150226145341-05'00'",
+                "creationdate": "D:20150226145341-05'00'",
+                "creator": "PDFCreator Version 1.7.2",
+                "author": "Shiho Takai",
+                "producer": "GPL Ghostscript 9.10",
+                "title": "DissertationDeposit"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "2230",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "jp"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "2230",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "jp"
+          }
+        ]
+      },
+      "context": {
+        "title": "Jirai"
+      },
+      "searchInformation": {
+        "searchTime": 0.216936,
+        "formattedSearchTime": "0.22",
+        "totalResults": "2230",
+        "formattedTotalResults": "2,230"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "Can someone explain what a \"Mine Woman\" (地雷女) is? : r/japan",
+          "htmlTitle": "Can someone explain what a &quot;Mine Woman&quot; (<b>地雷</b>女) is? : r/japan",
+          "link": "https://www.reddit.com/r/japan/comments/g6dj45/can_someone_explain_what_a_mine_woman_%E5%9C%B0%E9%9B%B7%E5%A5%B3_is/",
+          "displayLink": "www.reddit.com",
+          "snippet": "2020/04/23 ... Not sure if I'm posting in the right subreddit, but I think this a more of a cultural related question. So I've come across the term ...",
+          "htmlSnippet": "2020/04/23 <b>...</b> Not sure if I&#39;m posting in the right subreddit, but I think this a more of a cultural <b>related</b> question. So I&#39;ve come across the <b>term</b>&nbsp;...",
+          "formattedUrl": "https://www.reddit.com/.../can_someone_explain_what_a_mine_woman_地...",
+          "htmlFormattedUrl": "https://www.reddit.com/.../can_someone_explain_what_a_mine_woman_地...",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://share.redd.it/preview/post/g6dj45",
+                "theme-color": "#000000",
+                "og:image:width": "1200",
+                "og:type": "website",
+                "og:image:alt": "An image containing a preview of the post",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "r/japan on Reddit: Can someone explain what a \"Mine Woman\" (地雷女) is?",
+                "og:site_name": "Reddit",
+                "og:title": "r/japan on Reddit: Can someone explain what a \"Mine Woman\" (地雷女) is?",
+                "og:image:height": "630",
+                "msapplication-navbutton-color": "#000000",
+                "og:description": "Posted by u/[Deleted Account] - 27 votes and 20 comments",
+                "twitter:image": "https://share.redd.it/preview/post/g6dj45",
+                "apple-mobile-web-app-status-bar-style": "black",
+                "twitter:site": "@reddit",
+                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                "apple-mobile-web-app-capable": "yes",
+                "og:ttl": "600",
+                "og:url": "https://www.reddit.com/r/japan/comments/g6dj45/can_someone_explain_what_a_mine_woman_地雷女_is/?seeker-session=true"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jirai Kei | Aesthetics Wiki | Fandom",
+          "htmlTitle": "<b>Jirai</b> Kei | Aesthetics Wiki | Fandom",
+          "link": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+          "displayLink": "aesthetics.fandom.com",
+          "snippet": "History. The term \"Jirai Kei\" is derived from \"Jirai Onna\" (地雷女), literally \"landmine woman,\" a derogatory term used to stereotype women, particularly ...",
+          "htmlSnippet": "<b>History</b>. The <b>term</b> &quot;<b>Jirai</b> Kei&quot; is derived from &quot;<b>Jirai Onna</b>&quot; (<b>地雷</b>女), literally &quot;landmine woman,&quot; a derogatory <b>term</b> used to stereotype women, particularly&nbsp;...",
+          "formattedUrl": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+          "htmlFormattedUrl": "https://aesthetics.fandom.com/wiki/<b>Jirai</b>_Kei",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://static.wikia.nocookie.net/aesthetics/images/b/be/Jiraikei.jpg/revision/latest?cb=20230803104819",
+                "twitter:card": "summary",
+                "twitter:title": "Jirai Kei | Aesthetics Wiki | Fandom",
+                "theme-color": "#eaecf0",
+                "og:type": "article",
+                "og:site_name": "Aesthetics Wiki",
+                "twitter:url": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+                "og:title": "Jirai Kei",
+                "og:description": "Jirai Kei (地雷系), which translates to \"landmine type,\" is a subculture from Japan. It is primarily associated with young people frequenting the nightlife of Kabukichō. Initially, the style closely resembled the darker variant of Japanese Girly fashion during its peak popularity, but it has since evolved to incorporate a wider range of styles. The subculture carries a stereotype: young women who adopt this cute, hyperfeminine yet dark fashion are perceived to have personalities that contradict...",
+                "fb:app_id": "112328095453510",
+                "twitter:site": "@getfandom",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "twitter:description": "Jirai Kei (地雷系), which translates to \"landmine type,\" is a subculture from Japan. It is primarily associated with young people frequenting the nightlife of Kabukichō. Initially, the style closely...",
+                "og:url": "https://aesthetics.fandom.com/wiki/Jirai_Kei",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "A Land-Mine Style Ready for the World Zooming in on Jirai-kei fashion",
+          "htmlTitle": "A Land-Mine Style Ready for the World Zooming in on <b>Jirai</b>-kei fashion",
+          "link": "https://www.nufs.ac.jp/media/TheNUFSTimes_N10_1.pdf",
+          "displayLink": "www.nufs.ac.jp",
+          "snippet": "2023/01/24 ... find affordable items related to the style. Unlike other Japanese ... in terms of international openness. The bonds of in- ternational ...",
+          "htmlSnippet": "2023/01/24 <b>...</b> find affordable items <b>related</b> to the style. Unlike other Japanese ... in <b>terms</b> of international openness. The bonds of in- ternational&nbsp;...",
+          "formattedUrl": "https://www.nufs.ac.jp/media/TheNUFSTimes_N10_1.pdf",
+          "htmlFormattedUrl": "https://www.nufs.ac.jp/media/TheNUFSTimes_N10_1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7K2bQKfPwMggfI5KJvTrLmENRQEoq6LtO7hZP-pvU8SYAhaHJ_bjXUCx&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20230125160033+09'00'",
+                "creationdate": "D:20230116203005+09'00'",
+                "producer": "iText® Core 7.2.4 (AGPL version) ©2000-2022 iText Group NV"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6a553f86b2b3501bae0b71b9b6697fc462be8dcd332e7b2af16dde2e3f14621f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jirai Kei | Japanese Fashion Wikia | Fandom",
+          "htmlTitle": "<b>Jirai</b> Kei | Japanese Fashion Wikia | Fandom",
+          "link": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+          "displayLink": "j-fashion.fandom.com",
+          "snippet": "... related to the term or trend. Women within the subculture are called \"Jirai Joshi\" (地雷女子), or landmine girls, while men in the subculture are ...",
+          "htmlSnippet": "... <b>related</b> to the <b>term</b> or trend. Women within the subculture are called &quot;<b>Jirai</b> Joshi&quot; (<b>地雷</b>女子), or landmine girls, while men in the subculture are&nbsp;...",
+          "formattedUrl": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+          "htmlFormattedUrl": "https://j-fashion.fandom.com/wiki/<b>Jirai</b>_Kei",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://static.wikia.nocookie.net/j-fashion/images/4/45/Jirai_kei.jpg/revision/latest/scale-to-width-down/1200?cb=20231214215622",
+                "twitter:card": "summary",
+                "twitter:title": "Jirai Kei | Japanese Fashion Wikia | Fandom",
+                "theme-color": "#eaecf0",
+                "og:type": "article",
+                "og:site_name": "Japanese Fashion Wikia",
+                "twitter:url": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+                "og:title": "Jirai Kei",
+                "og:description": "WARNING: This page discusses suicide, violence, and other negative/illegal behaviors. Although not graphic, this may be triggering for some readers. Please read and participate with caution. Jirai Kei is a younger fashion subculture that originated in Japan's Kabukicho district and first spread in popularity in the early 2020s.[1] Its initial style consisted out of Dark Girly fashion but with an own spin to it that made the wearer appear distinctly Jirai even from just a glance.[2] However...",
+                "fb:app_id": "112328095453510",
+                "twitter:site": "@getfandom",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "twitter:description": "WARNING: This page discusses suicide, violence, and other negative/illegal behaviors. Although not graphic, this may be triggering for some readers. Please read and participate with caution. Jirai...",
+                "og:url": "https://j-fashion.fandom.com/wiki/Jirai_Kei",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Japanese street fashion - Wikipedia",
+          "htmlTitle": "Japanese street fashion - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Japanese_street_fashion",
+          "displayLink": "en.wikipedia.org",
+          "snippet": "Japanese street fashion refers to a number of styles of contemporary modern clothing in Japan. Created from a mix of both local and foreign fashion brands, ...",
+          "htmlSnippet": "Japanese street fashion refers to a number of styles of contemporary modern clothing in Japan. Created from a mix of both local and foreign fashion brands,&nbsp;...",
+          "formattedUrl": "https://en.wikipedia.org/wiki/Japanese_street_fashion",
+          "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Japanese_street_fashion",
+          "pagemap": {
+            "metatags": [
+              {
+                "referrer": "origin",
+                "theme-color": "#eaecf0",
+                "og:type": "website",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "og:title": "Japanese street fashion - Wikipedia",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "(PDF) An Examination of the History and Current State of Jirai Kei in ...",
+          "htmlTitle": "(PDF) An Examination of the <b>History</b> and Current State of <b>Jirai</b> Kei in ...",
+          "link": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+          "displayLink": "www.researchgate.net",
+          "snippet": "2025/08/08 ... ... history of \"Jirai Onna\" in both China and Japan. Finally, it ... and emotional instability associated with the Jirai Kei identity. The rise of ...",
+          "htmlSnippet": "2025/08/08 <b>...</b> ... <b>history</b> of &quot;<b>Jirai Onna</b>&quot; in both China and Japan. Finally, it ... and emotional instability <b>associated</b> with the <b>Jirai</b> Kei identity. The rise of&nbsp;...",
+          "formattedUrl": "https://www.researchgate.net/.../392020593_An_Examination_of_the_Hist...",
+          "htmlFormattedUrl": "https://www.researchgate.net/.../392020593_An_Examination_of_the_Hist...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjYZ9Ohp8NEZBJpdMxKMQ0lOgIdYC5vXtVtu3xtb7a4_LLkHr3T6gOzfo&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://i1.rgstatic.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan/links/6830ae966b5a287c30440731/largepreview.png",
+                "citation_publication_date": "2025/05/23",
+                "twitter:card": "summary",
+                "citation_title": "An Examination of the History and Current State of Jirai Kei in China and Japan",
+                "og:site_name": "ResearchGate",
+                "twitter:url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "citation_publisher": "EWA Publishing",
+                "citation_journal_title": "Communications in Humanities Research",
+                "twitter:creator": "@ResearchGate",
+                "og:description": "PDF | \"Jirai Onna\" is a phrase that originated in Japanese anonymous forums and is most commonly used to denote a variety of women who are considered to... | Find, read and cite all the research you need on ResearchGate",
+                "citation_issn": "2753-7072",
+                "twitter:site": "@ResearchGate",
+                "og:site": "ResearchGate",
+                "citation_fulltext_html_url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "citation_lastpage": "13",
+                "application-name": "ResearchGate",
+                "og:type": "website",
+                "rg-request-token": "aad-2JFamOhf0II4heFzftC7xTKGYnIrsNo4YVszhIGfNnAXDAbPCJsE7IwW+kC0kEQ2z5FPZFphS9eicYWsQhAUrJcYVY1iAhnErlqEfQfcW7lAv/kr9WZnvWggzVphzjzrPL1lnb0Rrn7JWLjvg6/Pfpe26vj9O0QNJOQQAzn7R5N2Jj+ZQS/TlBLoK8BzePoVMZVVScm65LVsFRcKsUkaF3JKhqzjOZ4cX5T8rFsTc3ICJbL6bXwWZbDSmPZieQgQIFsmO7rMVA2diJb/7UaUAqC6bWelGgle",
+                "og:title": "(PDF) An Examination of the History and Current State of Jirai Kei in China and Japan",
+                "citation_author": "Ruining Sun",
+                "citation_abstract_html_url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "citation_issue": "1",
+                "referrer": "origin",
+                "citation_firstpage": "9",
+                "viewport": "width=device-width,initial-scale=1",
+                "citation_doi": "10.54254/2753-7064/2025.23183",
+                "rg:id": "PB:392020593",
+                "dc.identifier": "http://dx.doi.org/10.54254/2753-7064/2025.23183",
+                "citation_volume": "69",
+                "og:url": "https://www.researchgate.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan",
+                "gs_meta_revision": "1.1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://i1.rgstatic.net/publication/392020593_An_Examination_of_the_History_and_Current_State_of_Jirai_Kei_in_China_and_Japan/links/6830ae966b5a287c30440731/largepreview.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "An Examination of the History and Current State of Jirai Kei in China ...",
+          "htmlTitle": "An Examination of the <b>History</b> and Current State of <b>Jirai</b> Kei in China ...",
+          "link": "https://www.ewadirect.com/proceedings/chr/article/view/23183",
+          "displayLink": "www.ewadirect.com",
+          "snippet": "2025/05/23 ... The word \"Menhera\" emerged around the same time as \"Jirai Onna.\" It is a Japanese internet adaptation of the English term \"mental health ...",
+          "htmlSnippet": "2025/05/23 <b>...</b> The <b>word</b> &quot;Menhera&quot; emerged around the same time as &quot;<b>Jirai Onna</b>.&quot; It is a Japanese internet adaptation of the English <b>term</b> &quot;mental health&nbsp;...",
+          "formattedUrl": "https://www.ewadirect.com/proceedings/chr/article/view/23183",
+          "htmlFormattedUrl": "https://www.ewadirect.com/proceedings/chr/article/view/23183",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IIAusQoRq9fDAjSQO3J6UxBHBja69YfUi8S0nKCVVDIIUkbyzhDdkGrd&s",
+                "width": "189",
+                "height": "267"
+              }
+            ],
+            "metatags": [
+              {
+                "viewport": "width=device-width, initial-scale=1.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.ewadirect.com/media/var/media/upload/chr.69.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "竹- Wiktionary, the free dictionary",
+          "htmlTitle": "竹- Wiktionary, the free <b>dictionary</b>",
+          "link": "https://en.wiktionary.org/wiki/%E7%AB%B9",
+          "displayLink": "en.wiktionary.org",
+          "snippet": "Glyph origin. Historical forms of the character 竹. Shang · Western Zhou · Warring States · Shuowen Jiezi (compiled in Han), Liushutong ... Terms of Use ...",
+          "htmlSnippet": "Glyph <b>origin</b>. Historical forms of the character 竹. Shang &middot; Western Zhou &middot; Warring States &middot; Shuowen Jiezi (compiled in Han), Liushutong ... <b>Terms</b> of Use&nbsp;...",
+          "formattedUrl": "https://en.wiktionary.org/wiki/竹",
+          "htmlFormattedUrl": "https://en.wiktionary.org/wiki/竹",
+          "pagemap": {
+            "metatags": [
+              {
+                "referrer": "origin",
+                "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%E7%AB%B9-mingti-kangxi.svg/1200px-%E7%AB%B9-mingti-kangxi.svg.png",
+                "theme-color": "#eaecf0",
+                "og:image:width": "1200",
+                "og:type": "website",
+                "og:site_name": "Wiktionary",
+                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                "og:title": "竹 - Wiktionary, the free dictionary",
+                "og:image:height": "1200",
+                "format-detection": "telephone=no"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "The People's Liberation Army's 37 Academic Institutions The ...",
+          "htmlTitle": "The People&#39;s Liberation Army&#39;s 37 Academic Institutions The ...",
+          "link": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2020-06-11%20PLA%20Academic_Institutions.pdf",
+          "displayLink": "www.airuniversity.af.edu",
+          "snippet": "1986/02/13 ... MOE 2-, 4-, and 5-Digit Numbers: 2018 and 2019. 236. • Appendix E: Education and Training Terms and Concepts. 250. • Appendix F: 11 PLA Force ...",
+          "htmlSnippet": "1986/02/13 <b>...</b> MOE 2-, 4-, and 5-Digit Numbers: 2018 and 2019. 236. • Appendix E: Education and Training <b>Terms</b> and Concepts. 250. • Appendix F: 11 PLA Force&nbsp;...",
+          "formattedUrl": "https://www.airuniversity.af.edu/.../2020-06-11%20PLA%20Academic_Inst...",
+          "htmlFormattedUrl": "https://www.airuniversity.af.edu/.../2020-06-11%20PLA%20Academic_Inst...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvrrFYkceEEv-ykBEFjE9ZDZG46g9L3HB7VYSQX7ZK9CcjQwxPZu3cwNG&s",
+                "width": "275",
+                "height": "183"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200614122728-05'00'",
+                "creationdate": "D:20200610122122-04'00'",
+                "creator": "Adobe InDesign 15.0 (Macintosh)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///6ca71a697e5d47306b514ffe5b50566843e79302d62a7c47ca786b63ccdaade6"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Submissive or Rebellious? The Formation and Popularity of ...",
+          "htmlTitle": "Submissive or Rebellious? The Formation and Popularity of ...",
+          "link": "https://lseee.net/index.php/al/article/download/453/AL004422.pdf/1836",
+          "displayLink": "lseee.net",
+          "snippet": "pan, whose name originates from “Jirai Joshi” ( 地雷女. 子 ). It began to ... the style that is related to the origin of this Jirai Kei style, which is ...",
+          "htmlSnippet": "pan, whose name originates from “<b>Jirai</b> Joshi” ( <b>地雷</b>女. 子 ). It began to ... the style that is <b>related</b> to the <b>origin</b> of this <b>Jirai</b> Kei style, which is&nbsp;...",
+          "formattedUrl": "https://lseee.net/index.php/al/article/download/453/AL004422.pdf/1836",
+          "htmlFormattedUrl": "https://lseee.net/index.php/al/article/download/453/AL004422.pdf/1836",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSujio7167B3eppzOX_BZmzTqpVR76VGWuEzva-uAjN-nygVBGzSj-acpr5&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20250215145814+08'00'",
+                "creationdate": "D:20250215145607+08'00'",
+                "creator": "Adobe InDesign 15.0 (Windows)",
+                "producer": "Adobe PDF Library 15.0"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///4bf3aa5d56c50cb575708e943e04a76aaf0b73ca79e30897e23f971f448485c3"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        }
+      ]
+    },
+    {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "previousPage": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "2230",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 1,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "jp"
+          }
+        ],
+        "request": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "2230",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 11,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "jp"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - Glossary of Terms Related to 'Jirai Onna' origin",
+            "totalResults": "2230",
+            "searchTerms": "Glossary of Terms Related to 'Jirai Onna' origin",
+            "count": 10,
+            "startIndex": 21,
+            "language": "lang_en",
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "e420c96e0c74a42b9",
+            "gl": "jp"
+          }
+        ]
+      },
+      "context": {
+        "title": "Jirai"
+      },
+      "searchInformation": {
+        "searchTime": 0.124925,
+        "formattedSearchTime": "0.12",
+        "totalResults": "2230",
+        "formattedTotalResults": "2,230"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "What is \"Ryosan-kei Joshi\"? What does \"Seiso-kei Joshi\" mean? A ...",
+          "htmlTitle": "What is &quot;Ryosan-kei Joshi&quot;? What does &quot;Seiso-kei Joshi&quot; mean? A ...",
+          "link": "https://www.fun-japan.jp/en/articles/14019",
+          "displayLink": "www.fun-japan.jp",
+          "snippet": "2025/08/21 ... Have you ever heard terms like \"Himono Onna\" or \"Fujoshi\" in Japanese dramas and anime? ... Jirai-kei Joshi,\" \"Minato-ku Joshi,\" and ...",
+          "htmlSnippet": "2025/08/21 <b>...</b> Have you ever heard <b>terms</b> like &quot;Himono <b>Onna</b>&quot; or &quot;Fujoshi&quot; in Japanese dramas and anime? ... <b>Jirai</b>-kei Joshi,&quot; &quot;Minato-ku Joshi,&quot; and&nbsp;...",
+          "formattedUrl": "https://www.fun-japan.jp/en/articles/14019",
+          "htmlFormattedUrl": "https://www.fun-japan.jp/en/articles/14019",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLXR9A-nj7_9qw2OYga42XFmXV5qwXyKPM5oaf_UckwiKSBUqPECdFG4ck&s",
+                "width": "277",
+                "height": "182"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://content.fun-japan.jp/renewal-prod/cms/articles/content/0331af4a1f6d096dee4f3a8747c064fb12ade154_2025-03-11-11-55-16.jpg",
+                "og:type": "article",
+                "og:image:width": "960",
+                "og:site_name": "FUN! JAPAN",
+                "og:title": "What is \"Ryosan-kei Joshi\"? What does \"Seiso-kei Joshi\" mean? A guide to \"○○-kei Joshi/Danshi (girl/guy)\" based on personality and fashion",
+                "og:image:height": "632",
+                "og:description": "Have you ever heard words like \"dried fish woman\" or \"rotten girl\" in Japan dramas and anime works? Derived from this, in recent years, the types of phrases such as \"mine-type girls\", \"Minato-ku girls\", and \"carnivorous boys\" have increased considerably. Therefore, this time, we will carefully select 〇〇 girls and 〇〇 boys who are often used in Japan, and introduce them with detailed meanings and characteristics of personality and fashion. What kind of girl or boy are you?",
+                "article:author": "https://www.facebook.com/international.funjapan/",
+                "fragment": "!",
+                "fb:app_id": "611810055567757",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "csrf-token": "eyoN5c4udj2DTFmPKBi4ZmESH6Ut3jIAcjVFVBDP",
+                "og:article:section": "Japan",
+                "og:locale": "en",
+                "og:url": "https://www.fun-japan.jp/en/articles/14019",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://content.fun-japan.jp/renewal-prod/cms/articles/content/0331af4a1f6d096dee4f3a8747c064fb12ade154_2025-03-11-11-55-16.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Japanese for NERDS: Oshikatsu, Otakatsu, BLkatsu, and language ...",
+          "htmlTitle": "Japanese for NERDS: Oshikatsu, Otakatsu, BLkatsu, and language ...",
+          "link": "https://rentablog.org/2023/09/19/japanese-for-nerds-oshikatsu-otakatsu-blkatsu-and-language/",
+          "displayLink": "rentablog.org",
+          "snippet": "2023/09/19 ... 推し活 (oshikatsu, a word that's hard to translate but is essentially “oshi life”)—the words people use to talk about their favorite characters, ...",
+          "htmlSnippet": "2023/09/19 <b>...</b> 推し活 (oshikatsu, a <b>word</b> that&#39;s hard to translate but is essentially “oshi life”)—the <b>words</b> people use to talk about their favorite characters,&nbsp;...",
+          "formattedUrl": "https://rentablog.org/.../japanese-for-nerds-oshikatsu-otakatsu-blkatsu-and-l...",
+          "htmlFormattedUrl": "https://rentablog.org/.../japanese-for-nerds-oshikatsu-otakatsu-blkatsu-and-l...",
+          "pagemap": {
+            "hcard": [
+              {
+                "fn": "Lala",
+                "nickname": "Lala"
+              }
+            ],
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXGtsf1-gTkWLz84kv2JtB5GsPOYn7SWIDJC0HeLJId_DOjebtDh6UGk&s",
+                "width": "200",
+                "height": "200"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://rentablog.org/wp-content/uploads/2024/09/cropped-sns-bl-800800-cropped.png?w=200",
+                "og:type": "article",
+                "article:published_time": "2023-09-19T03:34:48+00:00",
+                "og:image:width": "200",
+                "twitter:card": "summary",
+                "theme-color": "#923d70",
+                "og:site_name": "rentaBLog",
+                "og:title": "Japanese for NERDS: Oshikatsu, Otakatsu, BLkatsu, and language",
+                "og:image:height": "200",
+                "msapplication-tileimage": "https://rentablog.org/wp-content/uploads/2024/09/cropped-sns-bl-800800-cropped.png?w=270",
+                "og:description": "As you may have seen from my posts, I like to sprinkle in a lot of Japanese to help people learn and contextualize the language and culture a majority of our content comes from. While we’re a…",
+                "article:publisher": "https://www.facebook.com/WordPresscom",
+                "twitter:image": "https://rentablog.org/wp-content/uploads/2024/09/cropped-sns-bl-800800-cropped.png?w=240",
+                "twitter:text:title": "Japanese for NERDS: Oshikatsu, Otakatsu, BLkatsu, and language",
+                "article:modified_time": "2025-09-29T03:56:33+00:00",
+                "viewport": "width=device-width, initial-scale=1",
+                "og:locale": "en_US",
+                "og:url": "https://rentablog.org/2023/09/19/japanese-for-nerds-oshikatsu-otakatsu-blkatsu-and-language/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://rentablog.org/wp-content/uploads/2024/09/cropped-sns-bl-800800-cropped.png?w=200"
+              }
+            ],
+            "hatomfeed": [
+              {}
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Mentally Ill and Cute as Hell: Menhera Girls and ... - Frontiers",
+          "htmlTitle": "Mentally Ill and Cute as Hell: Menhera Girls and ... - Frontiers",
+          "link": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/full",
+          "displayLink": "www.frontiersin.org",
+          "snippet": "2022/03/10 ... ... origin of the term menhera. The earliest use of the term dated ... 090 (2016b) identified the emergence of a term menhera onna (menhera ...",
+          "htmlSnippet": "2022/03/10 <b>...</b> ... <b>origin</b> of the <b>term</b> menhera. The earliest use of the <b>term</b> dated ... 090 (2016b) identified the emergence of a <b>term</b> menhera <b>onna</b> (menhera&nbsp;...",
+          "formattedUrl": "https://www.frontiersin.org/journals/communication/articles/10.3389/.../full",
+          "htmlFormattedUrl": "https://www.frontiersin.org/journals/communication/articles/10.3389/.../full",
+          "pagemap": {
+            "metatags": [
+              {
+                "citation_keywords": "menhera; self-injury; Japanese popular culture; Female madness; Representations",
+                "citation_publication_date": "2022/03/11",
+                "theme-color": "#0C4DED",
+                "twitter:card": "summary_large_image",
+                "citation_title": "Mentally Ill and Cute as Hell: Menhera Girls and Portrayals of Self-Injury in Japanese Popular Culture",
+                "citation_author_institution": "School of Professional Communication, Ryerson University, Canada",
+                "citation_publisher": "Frontiers",
+                "apple-mobile-web-app-title": "Frontiers | Articles",
+                "citation_journal_title": "Frontiers in Communication",
+                "title": "Frontiers | Mentally Ill and Cute as Hell: Menhera Girls and Portrayals of Self-Injury in Japanese Popular Culture",
+                "type": "article",
+                "citation_online_date": "2022/02/10",
+                "citation_issn": "2297-900X",
+                "citation_language": "English",
+                "citation_pdf_url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/pdf",
+                "citation_xml_url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/xml",
+                "image": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/737761/fcomm-07-737761-HTML/image_m/fcomm-07-737761-g001.jpg",
+                "citation_fulltext_world_readable": "yes",
+                "citation_journal_abbrev": "Front. Commun.",
+                "citation_article_type": "Conceptual Analysis",
+                "citation_abstract": "Over the last few decades, self-injury has gained wide visibility in Japanese popular culture from manga (graphic novel), anime (animation), to digital games and fashion. Among the most conspicuous is the emergence of menhera (a portmanteau of “mental health-er”) girls, female characters who exhibit unstable emotionality, obsessive love, and stereotypical self-injurious behaviours such as wrist cutting. Tracing the expansion of this popular cultural slang since 2000, this conceptual paper explores three narrative tropes of menhera – the sad girl, the mad woman, and the cutie. Within these menhera narratives, self-injury functions as a self-sufficient signifier of female vulnerability, monstrosity, and desire for agency. These menhera tropes, each with their unique interpretation of self-injury, have evolved symbiotically with traditional gender norms in Japan, while destabilizing long-standing undesirability of sick/detracted female bodies. The menhera narrative tropes mobilize cultural discourses about",
+                "citation_author": "Seko, Yukari",
+                "url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.737761/full",
+                "site_name": "Frontiers",
+                "citation_firstpage": "737761",
+                "viewport": "width=device-width, initial-scale=1",
+                "apple-mobile-web-app-capable": "yes",
+                "citation_doi": "10.3389/fcomm.2022.737761",
+                "mobile-web-app-capable": "yes",
+                "dc.identifier": "doi:10.3389/fcomm.2022.737761",
+                "citation_volume": "7"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "F in: Dictionary of Taoist Internal Alchemy",
+          "htmlTitle": "F in: <b>Dictionary</b> of Taoist Internal Alchemy",
+          "link": "https://brill.com/display/book/9789004714175/BP000020.xml",
+          "displayLink": "brill.com",
+          "snippet": "2024/10/22 ... fa shen 法身 (fashen). “Dharma-body.” A term derived from Buddhism, where—in one of its main meanings—it denotes the unmanifested body of the ...",
+          "htmlSnippet": "2024/10/22 <b>...</b> fa shen 法身 (fashen). “Dharma-body.” A <b>term</b> derived from Buddhism, where—in one of its main meanings—it denotes the unmanifested body of the&nbsp;...",
+          "formattedUrl": "https://brill.com/display/book/9789004714175/BP000020.xml",
+          "htmlFormattedUrl": "https://brill.com/display/book/9789004714175/BP000020.xml",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUR7ZODfhEHBocsfqBRflsbGySBEJHI-exWmNj-g9nW0_cJCD6Iop6rc&s",
+                "width": "186",
+                "height": "270"
+              }
+            ],
+            "metatags": [
+              {
+                "citation_keywords": "China; Asian Studies; Philosophy; Chinese Philosophy; Philosophy; Comparative Religion & Religious Studies; Religious Studies; Religion in Asia",
+                "og:image": "https://brill.com/cover/covers/9789004714175.jpg",
+                "citation_isbn": "978-90-04-71417-5",
+                "citation_publication_date": "2024/10/22",
+                "article:published_time": "2024-10-22",
+                "twitter:card": "summary_large_image",
+                "citation_title": "F",
+                "og:site_name": "Brill",
+                "citation_publisher": "Brill",
+                "og:description": "\"F\" published on 22 Oct 2024 by Brill.",
+                "citation_language": "en",
+                "citation_pdf_url": "https://brill.com/downloadpdf/display/book/9789004714175/BP000020.pdf",
+                "citation_xml_url": "https://brill.com/doc/book/9789004714175/BP000020.xml",
+                "citation_lastpage": "70",
+                "og:type": "article",
+                "article:section": "Dictionary of Taoist Internal Alchemy",
+                "twitter:title": "F",
+                "og:title": "F",
+                "citation_author": "Fabrizio Pregadio",
+                "citation_inbook_title": "Dictionary of Taoist Internal Alchemy",
+                "article:author": "Fabrizio Pregadio",
+                "referrer": "unsafe-url",
+                "citation_firstpage": "63",
+                "og:locale:alternate": "zh_CN",
+                "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                "twitter:description": "\"F\" published on 22 Oct 2024 by Brill.",
+                "og:locale": "en_US",
+                "dc.identifier": "10.1163/9789004714175_008",
+                "og:url": "https://brill.com/display/book/9789004714175/BP000020.xml"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://brill.com/cover/covers/9789004714175.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Oshi Terms 101 : A Guide – Yumemipi's Outlet",
+          "htmlTitle": "Oshi <b>Terms</b> 101 : A Guide – Yumemipi&#39;s Outlet",
+          "link": "https://yumemipi.wordpress.com/2020/05/29/oshi-terms-101-a-guide/",
+          "displayLink": "yumemipi.wordpress.com",
+          "snippet": "2020/05/29 ... Onna wota-wota (女ヲタヲタ). – means “Female fan's fans” //I know ... When you look up at the dictionary the word 「尊い」 means precious.",
+          "htmlSnippet": "2020/05/29 <b>...</b> <b>Onna</b> wota-wota (女ヲタヲタ). – means “Female fan&#39;s fans” //I know ... When you look up at the <b>dictionary</b> the <b>word</b> 「尊い」 means precious.",
+          "formattedUrl": "https://yumemipi.wordpress.com/2020/05/29/oshi-terms-101-a-guide/",
+          "htmlFormattedUrl": "https://yumemipi.wordpress.com/2020/05/29/oshi-<b>terms</b>-101-a-guide/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7beNHPiXTUpPFkISlhi1RRPW13StF_wPwyr8EjZ9iSnddqDKS_nMN00P9&s",
+                "width": "247",
+                "height": "204"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/20180208000111.png",
+                "og:type": "article",
+                "article:published_time": "2020-05-29T05:41:18+00:00",
+                "og:image:width": "663",
+                "twitter:card": "summary_large_image",
+                "theme-color": "#f2ecec",
+                "og:site_name": "Yumemipi's Outlet ♥",
+                "og:title": "Oshi Terms 101 : A Guide",
+                "og:image:height": "547",
+                "msapplication-tileimage": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/cropped-279830326003211.png?w=270",
+                "og:description": "If you’re a beginner in the idol scene, wotaku community, or maybe someone who’s curious about these things, it gets confusing because there are a lot of terminologies and slang that ar…",
+                "article:publisher": "https://www.facebook.com/WordPresscom",
+                "twitter:image": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/20180208000111.png?w=640",
+                "twitter:text:title": "Oshi Terms 101 : A Guide",
+                "fb:app_id": "249643311490",
+                "article:modified_time": "2021-06-05T09:05:10+00:00",
+                "viewport": "width=device-width, initial-scale=1",
+                "og:locale": "en_US",
+                "og:url": "https://yumemipi.wordpress.com/2020/05/29/oshi-terms-101-a-guide/"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://yumemipi.wordpress.com/wp-content/uploads/2020/05/20180208000111.png"
+              }
+            ],
+            "hatomfeed": [
+              {}
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "AN ATLAS OF NIGERIAN LANGUAGES",
+          "htmlTitle": "AN ATLAS OF NIGERIAN LANGUAGES",
+          "link": "https://rogerblench.info/Language/Africa/Nigeria/Atlas%20of%20Nigerian%20Languages%202020.pdf",
+          "displayLink": "rogerblench.info",
+          "snippet": "... related words is not less than 70 per cent' and the figure of 80 per cent ... This name is the origin of the term Ejar. 2.C Koro Agwe, Agwere, Koro ...",
+          "htmlSnippet": "... <b>related words</b> is not less than 70 per cent&#39; and the figure of 80 per cent ... This name is the <b>origin</b> of the <b>term</b> Ejar. 2.C Koro Agwe, Agwere, Koro&nbsp;...",
+          "formattedUrl": "https://rogerblench.info/.../Atlas%20of%20Nigerian%20Languages%20202...",
+          "htmlFormattedUrl": "https://rogerblench.info/.../Atlas%20of%20Nigerian%20Languages%20202...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJ_A2L7OZhyebOwScsXp0ZtmIOp9lXalRsZ8wsDLZtn-GhUdAcWhhvrk&s",
+                "width": "195",
+                "height": "259"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20200911175838+01'00'",
+                "creationdate": "D:20200911175838+01'00'",
+                "creator": "PScript5.dll Version 5.2.2",
+                "author": "Roger",
+                "producer": "Acrobat Distiller 10.1.16 (Windows)",
+                "title": "Microsoft Word - Atlas of Nigerian Languages 2020.doc"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///9da1b6c8184d02c3ca4853eacdb84bff7ca26ebea4368ae2190f2a14e8b9e37f"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "A Chinese-English Dictionary of Сhinese Political Terms and ...",
+          "htmlTitle": "A Chinese-English <b>Dictionary</b> of Сhinese Political <b>Terms</b> and ...",
+          "link": "https://www.scribd.com/document/500185359/A-Chinese-English-Dictionary-of-%D0%A1hinese-Political-Terms-and-Phrases-%E6%B1%89%E8%8B%B1%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8-PDFDrive",
+          "displayLink": "www.scribd.com",
+          "snippet": "汉英中国政治术语词典. 丛书总策划苑涛杨恒达樊一昕. 主编思马得学校 译审曹建新. 南京大学出版社. PDF created with pdfFactory Pro trial version www.pdffactory.",
+          "htmlSnippet": "汉英中国政治术语词典. 丛书总策划苑涛杨恒达樊一昕. 主编思马得学校 译审曹建新. 南京大学出版社. PDF created with pdfFactory Pro trial version www.pdffactory.",
+          "formattedUrl": "https://www.scribd.com/.../A-Chinese-English-Dictionary-of-Сhinese-Politic...",
+          "htmlFormattedUrl": "https://www.scribd.com/.../A-Chinese-English-Dictionary-of-Сhinese-Politic...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7VJy7l5jbto_I6IbEupPLD7YsdLXm8MI26887yDTCC4OewedDoJKksIs&s",
+                "width": "194",
+                "height": "259"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://imgv2-1-f.scribdassets.com/img/document/500185359/original/bb1a38d63e/1?v=1",
+                "og:type": "website",
+                "og:image:alt": "A Chinese-English Dictionary of Сhinese Political Terms and Phrases 汉英中国政治术语词典 ( PDFDrive )",
+                "og:image:width": "1200",
+                "twitter:card": "summary",
+                "twitter:title": "A Chinese-English Dictionary of Сhinese Political Terms and Phrases 汉英中国政治术语词典 ( PDFDrive )",
+                "og:site_name": "Scribd",
+                "twitter:site:id": "14167997",
+                "twitter:url": "https://www.scribd.com/document/500185359/A-Chinese-English-Dictionary-of-%D0%A1hinese-Political-Terms-and-Phrases-%E6%B1%89%E8%8B%B1%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8-PDFDrive",
+                "og:title": "A Chinese-English Dictionary of Сhinese Political Terms and Phrases 汉英中国政治术语词典 (PDFDrive) | PDF",
+                "og:image:height": "630",
+                "og:image:type": "image/webp",
+                "yandex-verification": "0ed66f497fbf9765",
+                "og:description": "Scribd is the world's largest social reading and publishing site.",
+                "twitter:image": "https://imgv2-1-f.scribdassets.com/img/document/500185359/original/bb1a38d63e/1?v=1",
+                "fb:app_id": "136494494209",
+                "naver-site-verification": "8a1986b0a4079515076ba34125d27de19b41887c",
+                "twitter:site": "@Scribd",
+                "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0",
+                "twitter:description": "Scribd is the world's largest social reading and publishing site.",
+                "og:url": "https://www.scribd.com/document/500185359/A-Chinese-English-Dictionary-of-%D0%A1hinese-Political-Terms-and-Phrases-%E6%B1%89%E8%8B%B1%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8-PDFDrive",
+                "google-signin-client_id": "491264573595-hs5hu9ijbfl9g6khnkn2retrfr6lcua7.apps.googleusercontent.com"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://imgv2-1-f.scribdassets.com/img/document/500185359/original/bb1a38d63e/1?v=1"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "地雷系貓女 - Landmine Neko | This is such a hard topic, nyaa~~ Di ...",
+          "htmlTitle": "<b>地雷</b>系貓女 - Landmine Neko | This is such a hard topic, nyaa~~ Di ...",
+          "link": "https://www.flickr.com/photos/prinesca/52346952727",
+          "displayLink": "www.flickr.com",
+          "snippet": "This is such a hard topic, nyaa~~ Did I do it right? From Urban Dictionary: 地雷女（ ... associated with 'Jirai Onna', also called 'Jirai Kei'. Landmine-Girls/ ...",
+          "htmlSnippet": "This is such a hard topic, nyaa~~ Did I do it right? From Urban <b>Dictionary</b>: <b>地雷</b>女（ ... <b>associated</b> with &#39;<b>Jirai Onna</b>&#39;, also called &#39;<b>Jirai</b> Kei&#39;. Landmine-Girls/&nbsp;...",
+          "formattedUrl": "https://www.flickr.com/photos/prinesca/52346952727",
+          "htmlFormattedUrl": "https://www.flickr.com/photos/prinesca/52346952727",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhI2Cnfb-7Zmeia5QpyjVUCPYDLfGvmeEAVrwLwe6mM0I5hdLT-FmXD0_&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "twitter:app:id:googleplay": "com.flickr.android",
+                "og:image": "https://live.staticflickr.com/65535/52346952727_4c6d86fa08_b.jpg",
+                "twitter:app:url:iphone": "flickr://flickr.com/photos/prinesca/52346952727/",
+                "og:image:width": "1024",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "Flickr",
+                "twitter:app:url:ipad": "flickr://flickr.com/photos/prinesca/52346952727/",
+                "twitter:app:name:googleplay": "Flickr",
+                "twitter:app:id:iphone": "328407587",
+                "msapplication-tileimage": "https://combo.staticflickr.com/pw/images/favicons/favicon-144.png",
+                "title": "地雷系貓女 - Landmine Neko",
+                "al:ios:url": "flickr://flickr.com/photos/prinesca/52346952727",
+                "og:description": "This is such a hard topic, nyaa~~ Did I do it right?  From Urban Dictionary: 地雷女（Jirai-onna) lit. \"Land Mine Woman\". Usually younger girls. A 'landmine' is a girl/woman who wears cute clothes/makeup but in truth, is nothing but trouble. Somewhat like menhera, they're obsessive and tend to have major personality issues.  They tend to be very attention-seeking, have a messy relationship history, and is overly attached to her social media/how she presents herself online. She will write out her inner angst as poetry and post it while acting vague and aloof. Act vulnerable and self deprecating in front of others for sympathy but is far too self absorbed to try and sympathize with others. Generally avoided by most Japanese men, being regarded as mentally and emotionally draining. However, just like Menhera, it has become a sort of fashion trend amongst Japanese women and has given room for a specific style associated with 'Jirai Onna', also called 'Jirai Kei'.  Landmine-Girls/Women are typically characteriz",
+                "al:ios:app_store_id": "328407587",
+                "twitter:image": "https://live.staticflickr.com/65535/52346952727_4c6d86fa08_b.jpg",
+                "twitter:site": "@flickr",
+                "application-name": "地雷系貓女 - Landmine Neko | This is such a hard topic, nyaa~~ Di… | Flickr",
+                "msapplication-tilecolor": "#ffffff",
+                "og:type": "article",
+                "al:ios:app_name": "Flickr",
+                "og:title": "地雷系貓女 - Landmine Neko",
+                "twitter:app:id:ipad": "328407587",
+                "og:image:height": "576",
+                "og:updated_time": "2025-10-20T20:34:00.853Z",
+                "twitter:app:url:googleplay": "https://www.flickr.com/photos/prinesca/52346952727/",
+                "twitter:app:name:ipad": "Flickr",
+                "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=1",
+                "twitter:description": "This is such a hard topic, nyaa~~ Did I do it right?  From Urban Dictionary: 地雷女（Jirai-onna) lit. \"Land Mine Woman\". Usually younger girls. A 'landmine' is a girl/woman who wears cute clothes/makeup but in truth, is nothing but trouble. Somewhat like menhera, they're obsessive and tend to have major personality issues.  They tend to be very attention-seeking, have a messy relationship history, and is overly attached to her social media/how she presents herself online. She will write out her inner angst as poetry and post it while acting vague and aloof. Act vulnerable and self deprecating in front of others for sympathy but is far too self absorbed to try and sympathize with others. Generally avoided by most Japanese men, being regarded as mentally and emotionally draining. However, just like Menhera, it has become a sort of fashion trend amongst Japanese women and has given room for a specific style associated with 'Jirai Onna', also called 'Jirai Kei'.  Landmine-Girls/Women are typically characteriz",
+                "og:url": "https://www.flickr.com/photos/prinesca/52346952727/",
+                "twitter:app:name:iphone": "Flickr"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://live.staticflickr.com/65535/52346952727_4c6d86fa08_b.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Nexus: A Brief History of Information Networks from the Stone Age to ...",
+          "htmlTitle": "Nexus: A Brief <b>History</b> of Information Networks from the Stone Age to ...",
+          "link": "https://www.amazon.co.jp/-/en/Yuval-Noah-Harari-ebook/dp/B0CRP6SPL1",
+          "displayLink": "www.amazon.co.jp",
+          "snippet": "... definition and role of information in history. In everyday usage, “information” is associated with human-made symbols like spoken or written words. Consider ...",
+          "htmlSnippet": "... <b>definition</b> and role of information in <b>history</b>. In everyday usage, “information” is <b>associated</b> with human-made symbols like spoken or written <b>words</b>. Consider&nbsp;...",
+          "formattedUrl": "https://www.amazon.co.jp/-/en/Yuval-Noah-Harari-ebook/.../B0CRP6SPL1",
+          "htmlFormattedUrl": "https://www.amazon.co.jp/-/en/Yuval-Noah-Harari-ebook/.../B0CRP6SPL1",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqbR3OfhbJ9BxD_mqNFnz-yApE272ZswBLVX4ueOAUobfPAogyYRD2Xy-9&s",
+                "width": "310",
+                "height": "162"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://m.media-amazon.com/images/I/71hTs34qkiL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNTAiID43LDc4ODwvc3Bhbj4=,500,900,420,420,0,0_QL100_.jpg",
+                "theme-color": "#131921",
+                "og:type": "book",
+                "og:image:width": "1910",
+                "og:title": "Nexus: A Brief History of Information Networks from the Stone Age to AI (English Edition)",
+                "og:image:height": "1000",
+                "flow-closure-id": "1761234303",
+                "title": "Amazon.co.jp: Nexus: A Brief History of Information Networks from the Stone Age to AI (English Edition) eBook : Harari, Yuval Noah: Foreign Language Books",
+                "og:description": "For the last 100,000 years, we Sapiens have accumulated enormous power. But despite all our discoveries, inventions, and conquests, we now find ourselves in an existential crisis. The world is on the verge of ecological collapse. Misinformation abounds. And we are rushing headlong into the age...",
+                "encrypted-slate-token": "AnYxRvJvxFobjBZSJsquxW6NkcIIReHdzJODi+a0HVajA7apBJ7Ca+WVW6Af92vJFpZuYcQ1n/KvP5yTAw1jIPbQJJA7VMh2QX5D9KhOq6WnIXXBEX4wvgYxydGd/3byPN/K5eH6GbTPS8wQN0PIUqxXnrCUSC6ziHGutH4JHzrTlk2NVuL8pSuJ2BameXtJzyMwKMecNBME5RW1hTmbQqgNO3iwROfU2h//TNXyeWOHb90/svIlmnc7ikt8YWrmDjdZrGzB1r12+ibZ/rGrFdxI+5D6/iS0+nOo3JXdiaY=",
+                "viewport": "width=device-width, maximum-scale=2, minimum-scale=1, initial-scale=1, shrink-to-fit=no",
+                "og:sitename": "Amazon.co.jp",
+                "og:url": "https://www.amazon.co.jp/dp/B0CRP6SPL1"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://m.media-amazon.com/images/I/71hTs34qkiL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNTAiID43LDc4ODwvc3Bhbj4=,500,900,420,420,0,0_QL100_.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Jirai Kei Fashion: Full Guide to Japan's Dark Feminine Style ...",
+          "htmlTitle": "<b>Jirai</b> Kei Fashion: Full Guide to Japan&#39;s Dark Feminine Style ...",
+          "link": "https://moeflavor.com/blogs/news/jirai-kei-fashion",
+          "displayLink": "moeflavor.com",
+          "snippet": "2025/07/30 ... ... onna\", which translates to \"landmine type\" or \"landmine girl.\" This Japanese fashion movement transforms what was initially a derogatory term ...",
+          "htmlSnippet": "2025/07/30 <b>...</b> ... <b>onna</b>&quot;, which translates to &quot;landmine type&quot; or &quot;landmine girl.&quot; This Japanese fashion movement transforms what was initially a derogatory <b>term</b>&nbsp;...",
+          "formattedUrl": "https://moeflavor.com/blogs/news/jirai-kei-fashion",
+          "htmlFormattedUrl": "https://moeflavor.com/blogs/news/<b>jirai</b>-kei-fashion",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflU5o2_zmuujDisNbDvppYKYyDqaRdTmGzfz3lMhXOrLB1C6DpDJ2KOwJ&s",
+                "width": "290",
+                "height": "174"
+              }
+            ],
+            "organization": [
+              {
+                "logo": "https://moeflavor.com/cdn/shop/files/Moeflavor-Heart-Logo_4_82cb3f84-7212-41ee-9688-051c93888429.png?v=1674885941&width=220",
+                "url": "https://moeflavor.com/"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "http://moeflavor.com/cdn/shop/articles/jirai-kei-fashion-full-guide-to-japans-dark-feminine-style-2299176.jpg?v=1757052770",
+                "theme-color": "#ff7aac",
+                "og:type": "article",
+                "og:image:width": "750",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "Jirai Kei Fashion: Full Guide to Japan's Dark Feminine Style",
+                "og:site_name": "MOEFLAVOR - Waifu Inspired Fashion and Lingerie Store",
+                "og:title": "Jirai Kei Fashion: Full Guide to Japan's Dark Feminine Style",
+                "og:image:height": "450",
+                "shopify-checkout-api-token": "45339a76cac0fa9101caa3d048f0e20a",
+                "og:description": "People searching for Jirai Kei fashion often feel drawn to its unique blend of kawaii cuteness and melancholic darkness, yet struggle to embody this complex aesthetic authentically. Whether someone has encountered this style through social media or anime culture, they're typically looking for guidance on how to create their jirai kei look without appropriating its deeper cultural meanings.\nThis style represents more than clothing choices—it's a form of emotional expression that resonates with those who find beauty in vulnerability and strength in embracing their complex feelings.\nWhat is Jirai Kei Fashion?\n\nJirai kei fashion emerged from Japanese internet culture in the early 2020s, originating from the derogatory term",
+                "og:image:secure_url": "https://moeflavor.com/cdn/shop/articles/jirai-kei-fashion-full-guide-to-japans-dark-feminine-style-2299176.jpg?v=1757052770",
+                "facebook-domain-verification": "gps0ucjgqt2fl36k8r58spnrg9wmnp",
+                "twitter:site": "@moeflavor",
+                "viewport": "width=device-width,initial-scale=1",
+                "twitter:description": "People searching for Jirai Kei fashion often feel drawn to its unique blend of kawaii cuteness and melancholic darkness, yet struggle to embody this complex aesthetic authentically. Whether someone has encountered this style through social media or anime culture, they're typically looking for guidance on how to create their jirai kei look without appropriating its deeper cultural meanings.\nThis style represents more than clothing choices—it's a form of emotional expression that resonates with those who find beauty in vulnerability and strength in embracing their complex feelings.\nWhat is Jirai Kei Fashion?\n\nJirai kei fashion emerged from Japanese internet culture in the early 2020s, originating from the derogatory term",
+                "shopify-digital-wallet": "/34498478220/digital_wallets/dialog",
+                "og:url": "https://moeflavor.com/blogs/news/jirai-kei-fashion"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "http://moeflavor.com/cdn/shop/articles/jirai-kei-fashion-full-guide-to-japans-dark-feminine-style-2299176.jpg?v=1757052770"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

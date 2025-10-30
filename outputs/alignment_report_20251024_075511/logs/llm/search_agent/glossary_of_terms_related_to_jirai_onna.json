@@ -1,0 +1,19 @@
+{
+  "seed": "Glossary of Terms Related to 'Jirai Onna'",
+  "language_hint": "lang_en",
+  "country_hint": "cn, jp, us",
+  "site": null,
+  "generated_at": "20251024_075511",
+  "final_queries": [
+    "Glossary of Terms Related to 'Jirai Onna' definition",
+    "Glossary of Terms Related to 'Jirai Onna' origin",
+    "Glossary of Terms Related to 'Jirai Onna' social context"
+  ],
+  "config": {
+    "include_seed": false,
+    "exact_variants": true,
+    "max_variants": 3
+  },
+  "error": "'\\n  \"queries\"'",
+  "error_type": "KeyError"
+}
